@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="../../images/li__1_-removebg-preview.ico">
+  <title>Club job</title>
+  <!--Font awesome-->
+  <script src="https://kit.fontawesome.com/456d64337e.js" crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="../../css/club1-job.css">
+</head>
+<body>
+    <div class="top-header">
+      <div>
+        <button onclick="goBack()"><i class="fa-solid fa-arrow-left"></i></button>
+        <h1 class="sub-heading" id="sub-heading">Club job</h1>
+      </div>
+    </div>
+
+    <div id="job-list" class="job-container">
+      <!-- job details will be dynamically added  -->
+      <div class="main">
+          <h4>Location:</h4>
+          <p id="job-location"></p>
+      </div>
+
+      <div class="main">
+          <h4>Employee Type:</h4>
+          <p id="employee-type"></p>
+      </div>
+
+      <div class="main">
+          <h4>Minimum Experience:</h4>
+          <p id="minimum-experience"></p>
+      </div>
+
+      <h2 class="job-head">Description</h2>
+      <h3 class="job-head" id="job-title"></h3>
+      <p><strong>DEPARTMENT: </strong><span id="department"></span></p>
+      <p><strong>REPORTING TO: </strong><span id="reporting-to"></span></p>
+
+      <p><strong>JOB FUNCTION:</strong> <span id="job-function"></span></p>
+
+      <h2 class="job-head">Main Responsibilities:</h2>
+      <ul id="main-responsibilities"></ul>
+
+      <h2 class="job-head">Our Expectations:</h2>
+      <ul id="our-expectations"></ul>
+
+      <h2 class="job-head">Qualifications:</h2>
+      <p id="qualifications"></p>
+      <p id="skills"></p>
+      <h2 class="job-head">Experience:</h2>
+      <ul id="experience"></ul>
+      <p class="add-text">* This Job Description is not intended to be exhaustive; the duties and responsibilities may therefore vary over time according to the changing needs of the Club.</p>
+      <!-- Application form -->
+      <form id="application-form">
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required>
+
+          <label for="email">Email: <span id="invalid">Valid email required</span></label>
+          <input id="email-textbox" type="text" name="email" required>
+
+          <label for="resume">Resume:</label>
+          <input type="file" id="resume" name="resume" accept=".pdf,.doc,.docx" required>
+
+          <label for="coverletter">Cover letter:</label>
+          <input type="file" id="coverletter" name="coverletter" accept=".pdf,.doc,.docx" required>
+
+          <button class="btn" type="submit">Submit Application</button>
+      </form>
+  </div>
+
+  <script src="../../js/club-staff.js"></script>
+  <script src="../../js/job-listing/club1-job.js"></script>
+</body>
+</html>

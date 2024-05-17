@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+:root {
+    --green: #27ae60;
+    --black: #192a56;
+    --light-color: grey;
+    --white: #F6F2F2;
+    --box-shadow: 0.5rem 1.5rem rgba(0,0,0,.1)
+}
+
+* {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    border: none;
+    transition: all .2s linear;
+}
+
+html {
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-padding-top: 5.5rem;
+    scroll-behavior: smooth;
+    line-height: 1.5;
+}
+
+body {
+    display: block;
+}
+
+.top-header {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 1.5rem 3%;
+    z-index: 1000;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    background-color: white;
+}
+
+.top-header div {
+    display: flex;
+    width: max-content;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.top-header div button {
+    background-color: white;
+    color: var(--black);
+    font-size: 20px;
+}
+
+.top-header div button i {
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.sub-heading {
+    text-align: center;
+    color: var(--green);
+    font-size: 2rem;
+    padding-top: 1rem;
+}
+
+.btn {
+    margin-top: 1rem;
+    display: inline-block;
+    font-size: 1.7rem;
+    color: #fff;
+    background: var(--black);
+    cursor: pointer;
+    padding: 1rem 3rem;
+    border-radius: 5px;
+    text-transform: capitalize;
+}
+
+.btn:hover, .top-header div button i:hover {
+    background: var(--green);
+    letter-spacing: .1rem;
+    color: white;
+}
+
+.job-container {
+    position: relative;
+    padding: 10% 9%;
+    padding-bottom: 3%;
+    font-size: 1.5rem;
+}
+
+.job-container .main {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: max-content;
+    margin-bottom: 10px;
+}
+
+.job-container .job-head {
+    margin-top: 10px;
+}
+
+.job-container .add-text {
+    color: red;
+    margin-top: 15px;
+}
+
+.job-container ul {
+        list-style-type: circle;
+        margin-left: 30px;
+}
+
+.job-container label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.job-container input[type="text"] {
+    width: 100%;    
+    background-color: #CCCCCC;
+    border-radius: .5rem;
+    padding: 1rem;
+    font-size: 1.6rem;
+    color: black;
+    text-transform: none;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.job-container input[type="text"]:focus, .job-container input[type="email"]:focus {
+    border: .1rem solid var(--green);
+}
+
+.job-container input[type="file"] {
+    margin-bottom: 10px;
+}
+
+#invalid {
+    display: none;
+    color: red;
+}
