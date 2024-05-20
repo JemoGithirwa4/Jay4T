@@ -603,6 +603,11 @@ section .home {
     margin-top: 0;
 }
 
+#name-invalid, #email-invalid, #issue-invalid {
+    display: none;
+    color: hsl(4, 100%, 67%);
+}
+
 /*Footer section*/
 .footer {
     display: block;
