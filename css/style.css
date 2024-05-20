@@ -35,9 +35,6 @@ section.live {
     margin-top: 9%;
 }
 
-section:nth-child(even){
-    background: #eee;
-}
 
 .sub-heading {
     text-align: center;
@@ -194,6 +191,7 @@ section .home {
 .home .about-section {    
     text-align: center; 
     padding: 5% 9%; 
+    background-color: #eee;
 }
 
 .home .about-section .container .whole {
@@ -242,6 +240,7 @@ section .home {
 
 .teams {
     padding: 5% 0%;
+    background-color: #eee;
 }
 
 .teams .container {
@@ -316,6 +315,7 @@ section .home {
 .fixtures {
     font-size: 2rem;
     padding: 2% 9%;
+    background-color: #eee;
 }
 
 .fixtures .container {
@@ -488,7 +488,7 @@ section .home {
 /*Highlights*/
 /*News Section*/
 .highlights {
-    background-color: var(--white);
+    background-color: #eee;
     padding: 3% 0;
 }
 
@@ -549,6 +549,7 @@ section .home {
     text-transform: capitalize;
     height: 100vh;
     padding-top: 2%;
+    background-color: #eee;
 }
 
 .order form {
