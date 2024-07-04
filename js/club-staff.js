@@ -31,6 +31,10 @@ links.forEach(function(link) {
 
         // Scroll to the top of the target section
         window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        // Close the navbar after a link is clicked
+        menu.classList.remove('fa-times');
+        navbar.classList.remove('active');
     });
 });
 
@@ -85,7 +89,7 @@ competitionSelect.addEventListener("change", function() {
 });
 
 // Job listings
-const jobSearchInput = document.querySelector(".job-search");
+/* const jobSearchInput = document.querySelector(".job-search");
 const jobsContainer = document.querySelector(".jobs");
 const noMatch = document.getElementById("no-match");
 
@@ -112,10 +116,10 @@ jobSearchInput.addEventListener("input", (e) => {
     } else {
         noMatch.style.display = "none";
     }
-});
+}); */
 
 
-function redirectToStaffPage(jobTitle) {
+/* function redirectToStaffPage(jobTitle) {
     // Redirect to job details page with job title as a parameter
     window.location.href = `job-listing/club1-job.html?job=${encodeURIComponent(jobTitle)}`;
-}
+} */

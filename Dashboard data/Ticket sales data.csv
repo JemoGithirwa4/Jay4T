@@ -1,0 +1,1001 @@
+match_id,date,match,ticket_category,quantity,unit_price,total_revenue
+1,5/7/2024,vivamus metus arcu,pede,46,$54.66,$479.35
+2,8/23/2023,lectus vestibulum quam,ultricies,41,$81.98,$347.88
+3,2/6/2024,quisque id justo sit,neque vestibulum,20,$96.12,$312.38
+4,5/12/2024,posuere cubilia curae,sed interdum,98,$7.66,$535.31
+5,2/14/2024,aliquam convallis nunc proin,aliquet ultrices,87,$16.20,$415.24
+6,4/25/2024,mauris ullamcorper purus sit,non,93,$20.48,$911.92
+7,6/1/2024,ultrices posuere cubilia curae,non velit,11,$76.88,$180.08
+8,10/24/2023,elementum eu interdum,mollis molestie,90,$22.06,$342.45
+9,9/15/2023,quam a odio,vestibulum,45,$41.07,$756.32
+10,6/13/2024,integer tincidunt ante vel,ac nibh,62,$19.19,$601.85
+11,5/14/2024,turpis integer aliquet,sollicitudin,100,$84.52,$354.19
+12,4/25/2024,fringilla rhoncus mauris,sapien a,75,$25.98,$85.27
+13,7/20/2023,tempus sit amet sem,id nisl,33,$56.95,$933.29
+14,11/19/2023,at ipsum ac tellus,fusce posuere,88,$35.81,$400.96
+15,3/27/2024,condimentum neque sapien,posuere,10,$48.80,$258.93
+16,9/18/2023,morbi vestibulum velit id,mauris non,32,$71.17,$966.53
+17,1/9/2024,morbi a ipsum,nullam,12,$30.49,$793.42
+18,2/3/2024,vel augue vestibulum ante,aliquet ultrices,17,$9.57,$339.95
+19,7/10/2023,et magnis dis,sapien,22,$46.80,$696.53
+20,5/5/2024,ipsum ac tellus,id,78,$97.97,$425.21
+21,12/8/2023,sit amet justo morbi,augue,12,$29.03,$715.71
+22,7/11/2023,in hac habitasse platea,erat,34,$23.31,$604.65
+23,6/20/2023,dui vel nisl duis,ante ipsum,57,$39.50,$952.26
+24,12/30/2023,quam sapien varius ut,dolor morbi,8,$35.87,$165.80
+25,1/31/2024,cursus vestibulum proin,massa quis,10,$86.78,$77.24
+26,5/28/2024,bibendum imperdiet nullam orci,congue,37,$77.65,$276.66
+27,6/1/2024,semper rutrum nulla,semper porta,31,$6.66,$305.34
+28,11/17/2023,molestie nibh in lectus,nulla,43,$32.20,$721.22
+29,8/16/2023,eros suspendisse accumsan tortor,justo,3,$26.38,$341.79
+30,4/22/2024,pellentesque ultrices phasellus,vel,45,$78.52,$644.35
+31,7/12/2023,morbi vel lectus,vestibulum ante,29,$29.52,$578.69
+32,6/5/2024,lacinia erat vestibulum,interdum,15,$7.40,$536.56
+33,8/7/2023,vitae nisi nam ultrices,in,93,$62.29,$27.98
+34,10/4/2023,eu interdum eu,quis,47,$6.58,$969.60
+35,3/11/2024,libero non mattis,dictumst morbi,4,$85.58,$88.94
+36,2/8/2024,sapien arcu sed augue,quam,23,$48.24,$360.55
+37,5/26/2024,tempus vel pede morbi,augue,99,$2.89,$76.18
+38,3/17/2024,fringilla rhoncus mauris enim,hac habitasse,18,$50.28,$811.91
+39,5/5/2024,id luctus nec molestie,nulla,16,$88.32,$692.63
+40,1/31/2024,nulla mollis molestie,lacus curabitur,64,$4.20,$806.06
+41,6/22/2023,congue eget semper rutrum,nisi,49,$77.65,$418.85
+42,6/1/2024,semper rutrum nulla,lobortis,32,$53.30,$445.96
+43,8/31/2023,nulla justo aliquam,mauris lacinia,62,$54.91,$640.08
+44,7/30/2023,dictumst etiam faucibus,congue etiam,46,$51.26,$659.14
+45,12/18/2023,posuere cubilia curae duis,sapien in,17,$19.74,$110.65
+46,5/8/2024,ut at dolor quis,massa,96,$3.77,$492.20
+47,3/12/2024,natoque penatibus et magnis,non,57,$71.29,$106.29
+48,6/25/2023,faucibus orci luctus,duis,72,$13.21,$489.07
+49,6/22/2023,dolor quis odio consequat,eget rutrum,70,$82.58,$998.27
+50,12/10/2023,lectus pellentesque eget,gravida sem,75,$53.98,$317.34
+51,12/19/2023,nisi at nibh,malesuada in,46,$61.62,$907.34
+52,12/24/2023,amet justo morbi ut,varius,18,$7.19,$312.25
+53,4/27/2024,purus eu magna,posuere cubilia,84,$10.46,$197.55
+54,4/28/2024,venenatis turpis enim blandit,nam dui,80,$79.12,$422.73
+55,5/14/2024,massa tempor convallis nulla,mattis pulvinar,67,$31.90,$634.53
+56,11/14/2023,non pretium quis,non,73,$31.53,$727.24
+57,1/26/2024,arcu adipiscing molestie hendrerit,nulla eget,74,$69.84,$733.23
+58,7/12/2023,molestie nibh in,id,55,$83.97,$731.25
+59,1/12/2024,id massa id,libero,38,$40.10,$163.94
+60,5/5/2024,molestie hendrerit at,vel accumsan,83,$21.81,$832.46
+61,8/10/2023,in faucibus orci,libero nam,58,$97.68,$953.50
+62,11/18/2023,porta volutpat erat quisque,convallis,43,$65.82,$823.51
+63,8/21/2023,curabitur convallis duis,non,81,$15.15,$755.71
+64,5/28/2024,massa quis augue,nisl,35,$90.32,$411.02
+65,3/2/2024,in consequat ut,imperdiet et,78,$83.24,$467.57
+66,4/11/2024,eget semper rutrum,non ligula,20,$15.14,$464.48
+67,4/21/2024,curae mauris viverra,purus,95,$52.83,$806.40
+68,11/4/2023,nec euismod scelerisque,nulla,17,$63.57,$480.63
+69,12/22/2023,elementum nullam varius,sed,93,$66.58,$315.60
+70,1/1/2024,mi integer ac neque,vivamus vel,51,$32.82,$518.56
+71,5/12/2024,ridiculus mus etiam,vestibulum,74,$48.52,$8.74
+72,3/26/2024,lectus pellentesque eget nunc,vestibulum sagittis,97,$31.60,$279.82
+73,1/10/2024,amet erat nulla,libero rutrum,15,$34.77,$534.11
+74,11/26/2023,maecenas tristique est,eget,9,$34.74,$346.51
+75,3/6/2024,sociis natoque penatibus,nisl,11,$90.52,$890.29
+76,9/12/2023,est quam pharetra,donec ut,93,$59.55,$300.92
+77,3/26/2024,integer non velit,fermentum,28,$77.83,$580.14
+78,9/7/2023,vestibulum sed magna at,neque,100,$12.92,$657.04
+79,2/24/2024,orci vehicula condimentum,nulla,87,$35.72,$108.80
+80,12/21/2023,in blandit ultrices enim,luctus rutrum,65,$8.26,$356.98
+81,5/17/2024,lorem id ligula,auctor,68,$14.06,$47.49
+82,1/22/2024,quisque id justo,tortor id,52,$91.71,$112.15
+83,1/20/2024,parturient montes nascetur ridiculus,rutrum,55,$58.48,$391.67
+84,7/23/2023,luctus rutrum nulla,faucibus orci,99,$2.86,$307.39
+85,5/23/2024,lacus at turpis donec,habitasse,12,$85.62,$458.97
+86,4/6/2024,nibh quisque id,ac,99,$63.59,$189.05
+87,1/14/2024,auctor sed tristique in,faucibus orci,37,$19.65,$199.98
+88,3/12/2024,pellentesque ultrices phasellus,dapibus augue,94,$82.62,$595.62
+89,5/5/2024,dolor morbi vel,at,67,$54.48,$815.37
+90,5/22/2024,nisi at nibh,quis,41,$7.10,$889.36
+91,5/17/2024,justo eu massa donec,porttitor lacus,73,$77.17,$630.24
+92,2/27/2024,sit amet lobortis,sem duis,21,$26.22,$917.02
+93,7/7/2023,maecenas leo odio condimentum,adipiscing,86,$61.38,$66.70
+94,9/13/2023,aenean fermentum donec,felis fusce,80,$79.88,$903.70
+95,10/25/2023,ut volutpat sapien arcu,non,78,$26.38,$325.32
+96,8/18/2023,vivamus tortor duis mattis,accumsan,56,$47.85,$290.17
+97,3/20/2024,dapibus augue vel accumsan,vitae,21,$92.22,$870.29
+98,7/20/2023,arcu sed augue,vitae,12,$13.76,$463.14
+99,6/3/2024,platea dictumst morbi vestibulum,id,81,$3.06,$130.62
+100,10/16/2023,amet nulla quisque arcu,risus dapibus,64,$70.16,$229.32
+101,12/27/2023,semper est quam,lobortis,28,$71.27,$359.48
+102,2/5/2024,dolor sit amet,dis,20,$50.83,$903.22
+103,6/24/2023,varius nulla facilisi cras,mollis,49,$56.17,$903.74
+104,12/14/2023,porta volutpat erat quisque,consectetuer,66,$81.67,$713.04
+105,6/30/2023,erat quisque erat eros,semper sapien,29,$65.67,$306.86
+106,7/9/2023,sed sagittis nam congue,aliquam,87,$23.55,$57.39
+107,5/10/2024,tempus vel pede,dictumst,43,$62.84,$528.24
+108,10/3/2023,justo aliquam quis turpis,nec molestie,2,$25.51,$213.74
+109,7/16/2023,suspendisse potenti cras in,nulla,69,$92.29,$464.92
+110,4/7/2024,curabitur at ipsum ac,sapien,65,$93.52,$703.75
+111,6/11/2024,accumsan felis ut,platea dictumst,47,$51.57,$75.67
+112,1/12/2024,non lectus aliquam,at velit,6,$28.73,$589.83
+113,12/9/2023,suscipit ligula in lacus,donec,49,$29.05,$489.32
+114,3/2/2024,dapibus duis at velit,neque libero,24,$53.07,$467.36
+115,2/9/2024,ultrices posuere cubilia curae,non velit,5,$98.52,$571.67
+116,12/11/2023,vivamus metus arcu,quisque arcu,51,$57.81,$950.68
+117,2/10/2024,vulputate luctus cum,sapien iaculis,41,$19.65,$521.16
+118,2/10/2024,ante ipsum primis in,elementum eu,82,$38.09,$657.37
+119,4/11/2024,placerat praesent blandit,blandit,72,$56.04,$191.88
+120,1/26/2024,non ligula pellentesque ultrices,quis,76,$45.07,$787.52
+121,9/6/2023,eu magna vulputate luctus,tristique,62,$92.37,$825.07
+122,1/21/2024,penatibus et magnis,aliquam,67,$23.40,$713.01
+123,11/28/2023,id luctus nec molestie,nulla,54,$25.33,$276.39
+124,3/7/2024,etiam justo etiam pretium,iaculis congue,50,$58.02,$429.41
+125,4/27/2024,adipiscing elit proin interdum,massa,18,$86.32,$878.85
+126,11/30/2023,sit amet erat,dapibus,67,$17.43,$737.71
+127,9/2/2023,lorem quisque ut,at diam,73,$54.91,$972.05
+128,12/25/2023,vestibulum aliquet ultrices,interdum mauris,2,$78.73,$686.16
+129,6/14/2023,odio odio elementum eu,tincidunt eu,94,$6.19,$471.23
+130,10/12/2023,mauris ullamcorper purus,mattis,28,$10.32,$175.06
+131,5/31/2024,lacus curabitur at,amet,98,$46.28,$951.88
+132,2/13/2024,fermentum donec ut,sociis,97,$35.49,$705.95
+133,4/2/2024,turpis a pede,interdum mauris,3,$38.94,$426.24
+134,7/26/2023,vel lectus in,id,7,$89.50,$13.26
+135,2/20/2024,at velit eu est,nibh,89,$5.73,$709.52
+136,3/9/2024,ipsum primis in,vestibulum aliquet,73,$20.45,$842.92
+137,10/15/2023,molestie nibh in,morbi,74,$89.29,$171.85
+138,6/21/2023,tellus nulla ut erat,blandit,13,$90.28,$994.18
+139,10/6/2023,ornare imperdiet sapien urna,a libero,52,$81.82,$937.36
+140,5/25/2024,porta volutpat quam pede,odio justo,35,$82.59,$933.38
+141,10/26/2023,vel ipsum praesent,bibendum imperdiet,80,$78.50,$540.00
+142,5/2/2024,nulla eget eros elementum,dictumst,94,$8.46,$989.02
+143,1/21/2024,purus aliquet at,in,11,$2.57,$104.33
+144,6/18/2023,mi integer ac,tincidunt eget,72,$91.40,$678.05
+145,1/22/2024,ridiculus mus vivamus vestibulum,eu massa,35,$46.04,$197.63
+146,8/16/2023,turpis sed ante vivamus,aliquet massa,36,$77.00,$959.96
+147,8/29/2023,aenean sit amet,eget elit,2,$11.13,$56.02
+148,3/21/2024,et ultrices posuere,duis,49,$69.88,$466.10
+149,1/8/2024,tempor turpis nec,ut dolor,32,$98.94,$134.39
+150,9/21/2023,ligula suspendisse ornare consequat,cubilia curae,29,$70.51,$383.04
+151,3/14/2024,scelerisque mauris sit,nibh in,8,$62.34,$201.96
+152,8/5/2023,in purus eu,magnis,45,$24.73,$773.57
+153,2/25/2024,et commodo vulputate,interdum,11,$77.03,$538.10
+154,6/1/2024,molestie nibh in,vivamus vestibulum,8,$31.21,$607.83
+155,10/19/2023,tincidunt ante vel,urna,73,$59.11,$287.59
+156,1/15/2024,eget rutrum at lorem,in,64,$92.77,$794.31
+157,10/14/2023,blandit nam nulla,ipsum primis,78,$98.25,$235.86
+158,9/15/2023,convallis duis consequat dui,bibendum felis,55,$98.26,$284.81
+159,9/30/2023,convallis morbi odio odio,elementum nullam,7,$66.47,$467.18
+160,2/3/2024,nulla elit ac,maecenas tincidunt,33,$12.24,$992.49
+161,10/22/2023,ac enim in,in felis,88,$38.05,$875.25
+162,6/8/2024,auctor sed tristique,fermentum,62,$24.37,$567.12
+163,1/30/2024,erat id mauris vulputate,diam cras,33,$70.65,$36.79
+164,9/20/2023,porttitor lacus at,dolor sit,61,$63.20,$591.12
+165,2/2/2024,lacus at turpis,porttitor id,99,$8.20,$261.74
+166,3/14/2024,hac habitasse platea,orci,34,$29.23,$369.77
+167,10/9/2023,nam tristique tortor eu,duis consequat,51,$52.94,$553.71
+168,9/19/2023,nec condimentum neque sapien,morbi,59,$13.16,$941.02
+169,8/21/2023,at diam nam,amet,78,$84.69,$106.18
+170,10/21/2023,odio condimentum id luctus,erat,46,$9.21,$172.82
+171,4/14/2024,risus dapibus augue,arcu,77,$75.98,$69.58
+172,9/1/2023,cras pellentesque volutpat,pede,70,$38.70,$417.04
+173,4/10/2024,suscipit nulla elit ac,tempus,35,$25.62,$764.13
+174,7/6/2023,leo pellentesque ultrices,amet nulla,39,$17.70,$624.30
+175,2/25/2024,dui vel nisl,bibendum imperdiet,6,$90.32,$592.21
+176,12/25/2023,velit nec nisi vulputate,ipsum dolor,99,$65.55,$803.73
+177,8/6/2023,dui vel sem,magna bibendum,19,$86.55,$834.95
+178,3/19/2024,hac habitasse platea dictumst,at turpis,77,$77.50,$326.00
+179,3/4/2024,nunc donec quis,nullam orci,89,$18.95,$783.96
+180,10/7/2023,velit nec nisi vulputate,nulla suscipit,82,$76.23,$282.87
+181,11/5/2023,mi sit amet lobortis,tortor id,76,$60.81,$374.91
+182,11/28/2023,at turpis a pede,varius ut,78,$64.06,$133.50
+183,10/27/2023,id luctus nec,odio,35,$51.58,$852.77
+184,8/19/2023,nam nulla integer pede,dictumst,82,$46.05,$405.09
+185,12/15/2023,velit id pretium,sollicitudin,80,$57.93,$128.24
+186,8/11/2023,magna bibendum imperdiet,vulputate nonummy,82,$77.50,$591.88
+187,8/7/2023,ut rhoncus aliquet pulvinar,interdum eu,63,$63.58,$896.80
+188,3/1/2024,eget tincidunt eget,tristique tortor,59,$24.40,$386.74
+189,6/24/2023,sit amet eros suspendisse,sed justo,82,$97.14,$868.51
+190,10/28/2023,odio condimentum id luctus,phasellus,43,$90.91,$46.39
+191,3/10/2024,nunc purus phasellus,felis,7,$98.81,$631.58
+192,1/25/2024,amet diam in,tincidunt nulla,36,$93.20,$740.60
+193,10/31/2023,morbi vestibulum velit id,ornare,21,$10.49,$854.09
+194,1/14/2024,ultricies eu nibh quisque,pharetra,48,$9.22,$875.10
+195,12/9/2023,dui vel nisl duis,cursus,76,$89.39,$940.89
+196,10/14/2023,id turpis integer aliquet,vestibulum ante,17,$38.27,$567.31
+197,9/8/2023,nunc rhoncus dui,sed vel,56,$9.83,$153.38
+198,6/17/2023,donec diam neque,tincidunt,80,$19.19,$639.34
+199,8/8/2023,nisi vulputate nonummy maecenas,pede ullamcorper,34,$96.52,$294.09
+200,1/5/2024,suspendisse ornare consequat lectus,enim sit,84,$19.55,$739.76
+201,6/16/2023,blandit ultrices enim lorem,tristique,9,$57.20,$14.71
+202,5/22/2024,rutrum ac lobortis vel,amet,93,$33.84,$423.25
+203,2/28/2024,blandit nam nulla integer,rutrum,66,$53.72,$86.08
+204,12/24/2023,donec ut dolor morbi,diam id,81,$15.60,$674.88
+205,9/20/2023,eu massa donec,quam suspendisse,67,$5.66,$205.47
+206,10/28/2023,aliquet at feugiat,elit ac,9,$60.33,$948.81
+207,3/3/2024,aliquet pulvinar sed nisl,amet,99,$19.61,$52.76
+208,5/11/2024,nulla dapibus dolor,in lectus,96,$53.39,$697.42
+209,7/10/2023,nulla nisl nunc nisl,consequat morbi,58,$36.70,$100.76
+210,4/19/2024,sed augue aliquam erat,in purus,55,$58.23,$78.92
+211,12/11/2023,dui vel sem sed,nulla elit,38,$39.97,$847.42
+212,7/18/2023,sapien arcu sed,at ipsum,45,$71.49,$332.62
+213,10/27/2023,eu est congue elementum,vestibulum,40,$19.07,$136.87
+214,1/9/2024,rhoncus dui vel,platea dictumst,58,$77.70,$822.22
+215,2/26/2024,sapien ut nunc,purus sit,1,$49.03,$3.41
+216,5/2/2024,quam fringilla rhoncus mauris,vel dapibus,3,$58.62,$352.64
+217,1/19/2024,augue quam sollicitudin vitae,in faucibus,52,$92.10,$347.11
+218,10/17/2023,urna ut tellus,quisque erat,69,$14.64,$98.40
+219,4/14/2024,odio porttitor id,vel augue,51,$94.68,$122.71
+220,4/5/2024,nibh quisque id,non interdum,41,$6.85,$707.43
+221,5/2/2024,pulvinar nulla pede ullamcorper,turpis,6,$68.20,$505.25
+222,12/16/2023,turpis adipiscing lorem vitae,euismod,47,$43.14,$766.37
+223,8/10/2023,penatibus et magnis dis,lacus,77,$62.31,$970.17
+224,6/23/2023,hac habitasse platea,varius nulla,76,$81.51,$646.99
+225,6/9/2024,posuere nonummy integer,neque,75,$36.14,$333.81
+226,3/30/2024,platea dictumst etiam faucibus,eros,72,$10.19,$241.30
+227,8/15/2023,arcu adipiscing molestie hendrerit,sem,96,$15.51,$515.92
+228,10/9/2023,mattis egestas metus aenean,pede lobortis,39,$64.73,$648.98
+229,12/29/2023,nibh ligula nec,in eleifend,34,$49.01,$57.70
+230,4/9/2024,ullamcorper purus sit,luctus,37,$56.29,$689.07
+231,7/23/2023,massa id lobortis,imperdiet,96,$95.63,$149.99
+232,5/12/2024,suscipit nulla elit,curabitur,64,$39.60,$261.13
+233,3/15/2024,habitasse platea dictumst maecenas,amet,58,$3.38,$267.54
+234,11/16/2023,adipiscing molestie hendrerit at,blandit,48,$16.99,$724.05
+235,6/23/2023,faucibus orci luctus et,iaculis congue,3,$73.39,$108.96
+236,5/1/2024,ipsum primis in,enim,87,$79.61,$457.76
+237,4/25/2024,habitasse platea dictumst,cursus,69,$42.25,$10.88
+238,10/27/2023,magna vulputate luctus cum,ultrices posuere,36,$50.15,$388.13
+239,11/8/2023,venenatis turpis enim,tristique fusce,23,$65.47,$843.03
+240,9/29/2023,dapibus at diam nam,turpis nec,16,$83.75,$844.86
+241,2/16/2024,parturient montes nascetur,purus aliquet,96,$69.44,$564.53
+242,11/29/2023,libero convallis eget,maecenas,3,$34.86,$270.63
+243,11/4/2023,odio odio elementum eu,mattis,83,$47.47,$945.81
+244,7/23/2023,ipsum ac tellus semper,pede malesuada,53,$88.76,$971.34
+245,2/10/2024,dolor morbi vel,arcu adipiscing,21,$71.28,$405.38
+246,7/17/2023,id luctus nec,vestibulum,27,$50.62,$447.66
+247,12/20/2023,ultrices posuere cubilia curae,justo morbi,90,$48.97,$305.34
+248,5/31/2024,tristique tortor eu pede,sapien quis,18,$37.79,$302.43
+249,3/24/2024,erat id mauris vulputate,eu nibh,60,$96.42,$217.40
+250,12/29/2023,id consequat in consequat,nullam molestie,90,$64.87,$365.16
+251,1/18/2024,mi pede malesuada,non,33,$68.92,$420.33
+252,9/25/2023,in leo maecenas,odio,44,$31.97,$765.44
+253,4/2/2024,nec molestie sed justo,vestibulum quam,47,$19.11,$45.60
+254,5/22/2024,ultrices mattis odio donec,vel,79,$60.97,$293.66
+255,12/22/2023,ligula suspendisse ornare,nisl,38,$81.76,$609.80
+256,11/5/2023,ut nunc vestibulum,felis,91,$11.06,$987.26
+257,3/31/2024,posuere cubilia curae,viverra pede,96,$47.08,$166.09
+258,5/7/2024,ornare imperdiet sapien urna,metus sapien,69,$16.41,$952.65
+259,10/18/2023,lobortis est phasellus sit,eu,67,$3.99,$662.14
+260,12/21/2023,posuere cubilia curae,donec posuere,14,$5.77,$594.93
+261,6/26/2023,lacus at turpis,dis parturient,80,$92.03,$603.89
+262,5/17/2024,dictumst maecenas ut massa,in,62,$56.79,$179.33
+263,11/11/2023,tortor sollicitudin mi,quam fringilla,27,$91.50,$63.92
+264,6/21/2023,nulla neque libero,consectetuer eget,88,$68.63,$981.06
+265,8/28/2023,ipsum primis in,suspendisse potenti,71,$19.10,$81.71
+266,10/3/2023,metus vitae ipsum aliquam,lacus morbi,75,$43.73,$549.07
+267,4/1/2024,dapibus duis at,tincidunt,11,$15.95,$198.30
+268,9/28/2023,pede venenatis non,fusce,83,$63.94,$412.87
+269,2/17/2024,sapien cum sociis,sagittis,2,$48.78,$992.38
+270,9/3/2023,posuere cubilia curae duis,egestas metus,64,$79.22,$441.11
+271,8/7/2023,dapibus at diam nam,quisque arcu,82,$91.31,$980.88
+272,12/20/2023,ligula vehicula consequat,molestie lorem,100,$17.52,$856.70
+273,4/29/2024,pulvinar sed nisl,pellentesque ultrices,72,$95.56,$774.94
+274,6/24/2023,vitae quam suspendisse,hac habitasse,11,$27.67,$369.02
+275,7/6/2023,primis in faucibus orci,id massa,1,$26.43,$16.50
+276,10/14/2023,massa id lobortis,habitasse,19,$6.67,$958.38
+277,4/3/2024,amet sem fusce,congue diam,89,$13.82,$395.98
+278,8/22/2023,nibh ligula nec sem,vel augue,24,$84.99,$407.83
+279,7/21/2023,purus sit amet,mi,14,$80.62,$895.47
+280,6/6/2024,blandit mi in porttitor,suspendisse,62,$45.51,$800.67
+281,7/6/2023,quam turpis adipiscing,justo,85,$13.38,$927.74
+282,2/25/2024,curae nulla dapibus dolor,ac consequat,43,$58.42,$592.54
+283,2/3/2024,mauris morbi non,ligula pellentesque,99,$34.61,$844.07
+284,7/5/2023,quis orci nullam molestie,est quam,15,$24.52,$203.88
+285,1/6/2024,lorem ipsum dolor,vulputate nonummy,31,$34.03,$333.85
+286,9/14/2023,ante ipsum primis in,lacinia,9,$34.60,$910.04
+287,7/12/2023,mauris lacinia sapien quis,nulla mollis,38,$67.02,$336.48
+288,11/23/2023,lobortis sapien sapien,in imperdiet,42,$45.70,$102.67
+289,6/5/2024,massa id lobortis,et magnis,77,$90.29,$419.57
+290,9/24/2023,dui proin leo odio,lacinia,79,$49.04,$66.25
+291,3/18/2024,leo maecenas pulvinar lobortis,lorem ipsum,50,$32.50,$33.42
+292,11/3/2023,vivamus tortor duis,porta,67,$88.02,$5.05
+293,9/13/2023,lacus at velit,odio,62,$23.14,$376.27
+294,12/19/2023,quam pede lobortis,morbi porttitor,84,$33.46,$887.36
+295,7/10/2023,dapibus augue vel accumsan,eu,71,$17.03,$606.76
+296,4/25/2024,in faucibus orci luctus,tristique fusce,88,$81.20,$384.27
+297,3/28/2024,dictumst maecenas ut massa,ut,23,$85.64,$723.43
+298,7/8/2023,consectetuer eget rutrum,a feugiat,52,$82.09,$327.03
+299,1/10/2024,id justo sit,at turpis,36,$65.92,$264.23
+300,5/29/2024,elementum pellentesque quisque porta,id,43,$90.82,$941.20
+301,3/25/2024,justo maecenas rhoncus aliquam,commodo placerat,47,$42.59,$920.92
+302,2/17/2024,consequat metus sapien,eu,8,$53.00,$268.50
+303,4/23/2024,non ligula pellentesque,arcu sed,10,$80.52,$160.25
+304,3/16/2024,id ligula suspendisse ornare,mattis,68,$10.42,$641.78
+305,1/26/2024,sapien placerat ante,ipsum,83,$44.64,$665.84
+306,1/28/2024,lobortis sapien sapien non,sit,77,$25.38,$493.57
+307,2/19/2024,cursus urna ut tellus,maecenas,59,$55.89,$407.41
+308,10/11/2023,viverra pede ac,vulputate,53,$83.90,$542.15
+309,1/26/2024,cras mi pede,massa id,55,$29.55,$69.78
+310,11/3/2023,purus aliquet at feugiat,venenatis tristique,9,$8.94,$227.54
+311,7/16/2023,tortor quis turpis sed,nullam,2,$17.43,$263.34
+312,5/26/2024,in felis eu sapien,eu sapien,71,$95.87,$13.82
+313,3/23/2024,a libero nam dui,vivamus,4,$92.52,$533.27
+314,8/7/2023,sed interdum venenatis turpis,vestibulum sagittis,68,$68.33,$623.05
+315,5/22/2024,nam congue risus semper,feugiat,6,$48.40,$980.97
+316,5/11/2024,in ante vestibulum ante,libero,45,$93.58,$812.29
+317,11/17/2023,morbi sem mauris laoreet,morbi quis,48,$61.40,$54.77
+318,4/15/2024,nulla suscipit ligula in,bibendum,38,$79.36,$254.11
+319,8/7/2023,adipiscing molestie hendrerit at,vulputate,8,$76.65,$919.24
+320,8/19/2023,odio consequat varius,nec,25,$83.25,$258.45
+321,6/26/2023,fermentum donec ut,nulla,40,$78.41,$343.47
+322,6/3/2024,proin at turpis a,ligula,73,$53.89,$509.87
+323,12/10/2023,lobortis vel dapibus,lacinia,80,$99.43,$47.02
+324,7/20/2023,pulvinar lobortis est,phasellus id,41,$15.21,$219.44
+325,4/29/2024,vehicula consequat morbi a,vivamus vel,26,$36.96,$971.07
+326,11/20/2023,iaculis justo in,et tempus,38,$78.60,$90.91
+327,5/27/2024,risus semper porta volutpat,orci,91,$56.83,$922.13
+328,8/25/2023,quisque ut erat curabitur,eleifend quam,40,$6.28,$173.40
+329,3/14/2024,sapien iaculis congue,eget tincidunt,35,$22.55,$310.44
+330,10/23/2023,ipsum praesent blandit lacinia,ipsum praesent,39,$24.17,$239.24
+331,5/3/2024,id ligula suspendisse,morbi,92,$75.40,$657.41
+332,1/1/2024,congue etiam justo etiam,in,9,$31.35,$454.64
+333,9/10/2023,iaculis diam erat fermentum,id,66,$8.25,$966.56
+334,10/11/2023,morbi ut odio cras,lacus at,97,$98.29,$56.24
+335,9/21/2023,morbi sem mauris laoreet,dignissim,71,$94.05,$535.99
+336,1/10/2024,aliquet maecenas leo,arcu sed,77,$3.21,$719.08
+337,8/26/2023,faucibus orci luctus,mus etiam,46,$99.21,$168.11
+338,7/28/2023,cursus urna ut,etiam,55,$54.93,$152.38
+339,4/12/2024,rhoncus sed vestibulum,ut,86,$37.91,$656.95
+340,2/12/2024,bibendum morbi non,ut,12,$91.32,$441.52
+341,9/9/2023,vel augue vestibulum,odio,42,$1.32,$900.60
+342,6/4/2024,at feugiat non pretium,montes nascetur,50,$69.44,$186.20
+343,6/28/2023,viverra diam vitae,pellentesque at,27,$94.64,$912.44
+344,7/5/2023,elementum eu interdum eu,velit vivamus,50,$65.44,$763.28
+345,10/1/2023,posuere cubilia curae,felis eu,62,$91.91,$528.90
+346,10/23/2023,leo odio porttitor id,eleifend quam,16,$70.82,$520.15
+347,4/29/2024,pellentesque viverra pede,ut,82,$70.94,$980.96
+348,3/2/2024,vulputate nonummy maecenas tincidunt,amet justo,36,$50.51,$811.63
+349,5/17/2024,orci luctus et,est et,86,$26.17,$779.81
+350,12/6/2023,dapibus dolor vel est,magnis dis,76,$24.13,$893.26
+351,1/31/2024,sit amet consectetuer,massa id,44,$75.47,$423.76
+352,10/28/2023,scelerisque mauris sit amet,ante ipsum,86,$56.36,$625.13
+353,10/29/2023,consequat metus sapien,dictumst morbi,3,$86.92,$582.97
+354,7/6/2023,ligula vehicula consequat morbi,lacus,65,$14.83,$839.82
+355,11/27/2023,nibh ligula nec sem,id nulla,87,$71.32,$445.30
+356,2/17/2024,consectetuer adipiscing elit proin,amet erat,77,$35.04,$480.41
+357,11/28/2023,nec condimentum neque sapien,bibendum imperdiet,22,$74.16,$522.26
+358,2/10/2024,erat fermentum justo,nonummy maecenas,66,$3.32,$647.36
+359,7/29/2023,magnis dis parturient montes,posuere,65,$19.46,$917.42
+360,9/23/2023,mauris vulputate elementum nullam,consectetuer,47,$35.45,$539.43
+361,6/30/2023,eget tempus vel,vestibulum quam,9,$24.47,$741.53
+362,12/15/2023,vestibulum sit amet,volutpat,98,$6.18,$374.59
+363,1/8/2024,in lectus pellentesque,id,30,$20.37,$191.39
+364,12/14/2023,turpis donec posuere,libero,91,$11.64,$385.77
+365,11/21/2023,duis bibendum morbi,libero,33,$94.83,$304.76
+366,5/1/2024,quis turpis eget elit,aliquet,69,$22.25,$436.87
+367,4/20/2024,tristique est et,in,90,$64.38,$882.70
+368,8/27/2023,quisque porta volutpat,eu est,5,$2.15,$666.12
+369,4/7/2024,quam fringilla rhoncus mauris,ipsum,53,$45.15,$991.70
+370,3/24/2024,vivamus tortor duis,id pretium,57,$15.41,$709.28
+371,3/30/2024,ligula nec sem,odio,37,$58.77,$492.43
+372,12/31/2023,nam nulla integer pede,nisl ut,5,$21.12,$628.85
+373,12/23/2023,quam a odio,commodo,56,$59.77,$775.62
+374,11/3/2023,diam cras pellentesque volutpat,potenti cras,47,$94.25,$428.12
+375,5/31/2024,adipiscing lorem vitae,quam a,70,$49.54,$856.55
+376,8/30/2023,ut tellus nulla ut,aliquam erat,12,$27.48,$980.71
+377,4/16/2024,dui vel sem,eget eros,15,$87.02,$94.58
+378,11/25/2023,libero nullam sit,magnis,33,$26.17,$290.52
+379,11/9/2023,amet lobortis sapien sapien,ante ipsum,86,$7.44,$234.13
+380,10/8/2023,vel accumsan tellus,ultrices enim,61,$4.02,$103.41
+381,10/24/2023,ridiculus mus vivamus vestibulum,lectus,69,$44.49,$341.12
+382,2/25/2024,magna bibendum imperdiet nullam,eget,76,$89.19,$876.51
+383,8/1/2023,nulla quisque arcu,ultricies eu,19,$27.30,$653.66
+384,7/17/2023,aliquet massa id lobortis,tincidunt eu,39,$5.80,$194.58
+385,2/9/2024,nam congue risus semper,quis turpis,73,$88.99,$285.76
+386,8/27/2023,venenatis non sodales,cras mi,64,$66.33,$531.49
+387,10/31/2023,elementum eu interdum eu,pellentesque ultrices,87,$37.92,$758.05
+388,8/4/2023,pede posuere nonummy integer,tellus,54,$15.12,$402.82
+389,1/19/2024,vulputate vitae nisl aenean,vitae,57,$94.94,$933.38
+390,12/11/2023,accumsan odio curabitur convallis,pretium quis,61,$3.78,$294.26
+391,11/8/2023,magna bibendum imperdiet nullam,curabitur gravida,57,$67.82,$978.83
+392,6/19/2023,duis faucibus accumsan,sapien placerat,64,$17.42,$74.08
+393,2/15/2024,ut erat id mauris,justo in,9,$46.40,$905.74
+394,6/23/2023,eu mi nulla,molestie sed,42,$62.78,$817.27
+395,2/13/2024,pretium quis lectus suspendisse,ut tellus,42,$24.16,$800.09
+396,6/8/2024,amet nulla quisque,molestie hendrerit,64,$79.28,$653.21
+397,12/21/2023,amet turpis elementum ligula,tempor,60,$96.88,$984.31
+398,6/12/2024,volutpat erat quisque erat,platea dictumst,20,$57.84,$955.01
+399,12/31/2023,vestibulum sit amet cursus,integer,30,$83.61,$513.59
+400,10/15/2023,turpis donec posuere,vestibulum,2,$7.68,$794.31
+401,8/24/2023,ultrices erat tortor,suspendisse potenti,11,$17.61,$783.11
+402,10/12/2023,luctus et ultrices posuere,mi nulla,42,$61.34,$816.76
+403,8/5/2023,volutpat eleifend donec,vitae,45,$77.38,$254.35
+404,7/25/2023,tincidunt in leo,in est,38,$30.07,$484.49
+405,3/18/2024,faucibus orci luctus et,amet,59,$41.10,$603.94
+406,4/29/2024,ante vivamus tortor duis,vel nisl,78,$43.70,$711.81
+407,8/10/2023,viverra dapibus nulla suscipit,ipsum,95,$44.08,$917.53
+408,11/9/2023,in tempus sit,et tempus,16,$25.41,$878.70
+409,8/11/2023,sed ante vivamus tortor,dapibus dolor,10,$57.45,$614.34
+410,5/26/2024,sed sagittis nam,tempor,40,$36.73,$215.61
+411,11/10/2023,convallis nulla neque libero,ultrices mattis,80,$10.14,$531.95
+412,5/24/2024,arcu adipiscing molestie hendrerit,auctor sed,53,$88.30,$388.13
+413,4/7/2024,rhoncus sed vestibulum,non velit,26,$71.36,$901.79
+414,11/6/2023,posuere cubilia curae,elementum pellentesque,81,$22.01,$872.48
+415,9/18/2023,diam cras pellentesque volutpat,nullam,70,$62.50,$154.42
+416,10/18/2023,ipsum primis in faucibus,nulla,47,$96.07,$795.32
+417,9/9/2023,nulla nisl nunc nisl,justo morbi,12,$42.63,$735.35
+418,3/16/2024,nibh in quis,at,3,$67.05,$102.76
+419,7/24/2023,sollicitudin vitae consectetuer,velit nec,22,$7.24,$247.94
+420,8/12/2023,vestibulum aliquet ultrices,tristique est,76,$47.61,$67.59
+421,7/14/2023,vivamus vestibulum sagittis sapien,molestie,68,$76.19,$970.94
+422,8/28/2023,amet sapien dignissim,ut,89,$18.18,$957.86
+423,2/20/2024,amet consectetuer adipiscing elit,amet diam,32,$23.31,$537.52
+424,5/21/2024,fringilla rhoncus mauris enim,leo,53,$82.27,$65.25
+425,12/11/2023,dapibus at diam nam,arcu,21,$64.44,$989.33
+426,3/10/2024,dolor morbi vel,pede,95,$13.70,$789.64
+427,11/15/2023,ultrices posuere cubilia curae,sit,63,$96.69,$115.21
+428,11/20/2023,lorem ipsum dolor,lobortis convallis,59,$92.22,$316.99
+429,8/16/2023,interdum mauris non,neque,19,$63.79,$244.98
+430,3/15/2024,ultrices enim lorem ipsum,nisi,13,$70.31,$635.33
+431,8/1/2023,urna ut tellus nulla,adipiscing lorem,57,$86.88,$710.96
+432,12/12/2023,in hac habitasse,elementum in,42,$87.90,$462.11
+433,5/21/2024,nisi nam ultrices libero,tempus semper,66,$80.57,$104.16
+434,2/6/2024,id consequat in consequat,pulvinar sed,19,$3.84,$444.91
+435,11/13/2023,semper sapien a,iaculis congue,63,$13.88,$82.21
+436,7/24/2023,amet lobortis sapien sapien,pretium,50,$44.26,$928.20
+437,5/18/2024,ut at dolor,maecenas,29,$51.41,$248.14
+438,1/23/2024,nibh in quis justo,elit proin,27,$47.78,$508.67
+439,8/28/2023,semper porta volutpat quam,quam fringilla,76,$89.28,$506.18
+440,7/31/2023,hac habitasse platea dictumst,in,62,$22.67,$411.25
+441,10/27/2023,magna vulputate luctus,justo etiam,5,$71.76,$869.83
+442,7/20/2023,in hac habitasse,tincidunt,23,$96.54,$291.53
+443,5/19/2024,rhoncus dui vel sem,pellentesque,49,$75.23,$922.35
+444,12/30/2023,interdum mauris ullamcorper purus,eu magna,30,$92.25,$122.58
+445,12/19/2023,nulla nisl nunc nisl,duis bibendum,56,$92.40,$516.37
+446,7/24/2023,vivamus vel nulla,est,41,$89.32,$235.24
+447,6/25/2023,lacinia eget tincidunt eget,donec,44,$46.62,$678.56
+448,12/10/2023,odio cras mi pede,amet sem,33,$92.87,$726.55
+449,7/17/2023,mus vivamus vestibulum,lacinia,30,$79.50,$367.49
+450,2/11/2024,mattis odio donec vitae,accumsan,66,$82.91,$136.67
+451,2/19/2024,rutrum ac lobortis,eros viverra,76,$16.45,$727.05
+452,10/27/2023,erat fermentum justo nec,sed sagittis,33,$56.04,$116.06
+453,5/23/2024,a pede posuere,ultrices,58,$6.02,$887.55
+454,1/20/2024,venenatis non sodales sed,eleifend quam,86,$72.01,$332.28
+455,2/27/2024,sapien iaculis congue vivamus,neque duis,97,$70.72,$975.32
+456,10/18/2023,luctus et ultrices posuere,in,28,$81.74,$572.24
+457,4/4/2024,hendrerit at vulputate vitae,rutrum,2,$90.72,$264.00
+458,11/7/2023,sapien cum sociis,mauris eget,12,$33.75,$668.75
+459,4/10/2024,blandit mi in porttitor,laoreet ut,62,$85.84,$642.87
+460,10/7/2023,quam pede lobortis,pulvinar sed,73,$80.13,$947.67
+461,12/1/2023,mollis molestie lorem quisque,in,81,$98.84,$536.17
+462,7/3/2023,proin eu mi nulla,ut,68,$86.46,$74.29
+463,9/6/2023,eu magna vulputate,sapien non,32,$76.02,$720.69
+464,4/26/2024,vulputate ut ultrices,mi pede,58,$89.02,$604.21
+465,1/1/2024,at turpis a pede,in,26,$66.75,$211.15
+466,12/16/2023,sem praesent id,mattis,66,$70.29,$666.59
+467,1/25/2024,lectus pellentesque eget,et ultrices,94,$82.79,$214.14
+468,10/10/2023,est risus auctor,leo,73,$13.94,$817.26
+469,6/9/2024,augue aliquam erat,leo,69,$38.51,$521.93
+470,3/3/2024,volutpat quam pede lobortis,tellus nisi,23,$53.41,$80.50
+471,1/9/2024,nibh fusce lacus purus,vestibulum ante,39,$44.95,$124.07
+472,1/7/2024,rutrum ac lobortis,ante vivamus,90,$92.81,$394.43
+473,8/26/2023,justo sollicitudin ut suscipit,ut odio,7,$45.33,$755.32
+474,8/15/2023,nunc vestibulum ante,gravida,71,$58.76,$639.98
+475,7/13/2023,nulla sed vel,integer pede,91,$45.56,$614.08
+476,4/8/2024,sem fusce consequat,libero,27,$79.37,$497.63
+477,2/22/2024,mauris non ligula pellentesque,scelerisque mauris,70,$41.65,$188.40
+478,2/21/2024,consequat varius integer ac,eget vulputate,2,$1.25,$523.68
+479,12/25/2023,neque sapien placerat ante,luctus ultricies,69,$62.74,$316.01
+480,10/8/2023,tristique est et tempus,morbi vel,90,$46.53,$856.39
+481,8/23/2023,luctus cum sociis,in est,6,$93.92,$940.78
+482,3/7/2024,ante vivamus tortor duis,blandit,75,$14.97,$329.49
+483,11/7/2023,nisl duis bibendum felis,auctor sed,58,$20.62,$112.21
+484,10/18/2023,laoreet ut rhoncus aliquet,elementum,74,$27.93,$40.38
+485,8/31/2023,tincidunt nulla mollis molestie,ac nulla,21,$93.46,$494.96
+486,3/26/2024,nullam orci pede venenatis,sit amet,98,$2.83,$826.06
+487,9/14/2023,luctus ultricies eu nibh,mus,34,$85.92,$541.58
+488,10/5/2023,ante ipsum primis in,turpis,90,$50.46,$585.33
+489,9/12/2023,sed interdum venenatis turpis,et,33,$48.36,$658.44
+490,9/9/2023,aliquam augue quam,morbi,28,$12.97,$550.92
+491,3/15/2024,nunc proin at,imperdiet,57,$68.50,$842.51
+492,1/2/2024,amet eleifend pede,ante ipsum,24,$42.18,$173.30
+493,12/27/2023,sapien non mi,nam nulla,45,$72.05,$82.27
+494,2/19/2024,primis in faucibus,eros elementum,24,$33.85,$246.98
+495,7/26/2023,nec euismod scelerisque,tristique,21,$81.10,$278.61
+496,9/24/2023,volutpat quam pede lobortis,mollis molestie,27,$4.61,$573.66
+497,8/13/2023,non quam nec dui,vivamus,2,$8.09,$786.05
+498,11/23/2023,congue vivamus metus,faucibus orci,22,$92.17,$542.53
+499,5/1/2024,ornare consequat lectus,consequat in,59,$45.16,$139.56
+500,4/11/2024,semper interdum mauris,aliquet maecenas,83,$12.06,$895.25
+501,4/29/2024,sapien cursus vestibulum proin,varius,57,$1.77,$677.02
+502,3/24/2024,sapien non mi integer,imperdiet,67,$73.53,$900.90
+503,7/27/2023,ante vel ipsum praesent,vel,67,$57.03,$207.02
+504,7/20/2023,at ipsum ac,sapien,14,$83.67,$693.37
+505,7/11/2023,ultrices posuere cubilia curae,porttitor,87,$35.45,$952.75
+506,11/12/2023,at velit vivamus,mus vivamus,94,$72.14,$289.74
+507,10/16/2023,ut suscipit a feugiat,augue quam,81,$51.84,$973.42
+508,11/5/2023,in porttitor pede justo,vel,96,$61.28,$918.06
+509,12/4/2023,nulla suspendisse potenti,venenatis,20,$27.10,$533.33
+510,4/12/2024,lorem id ligula suspendisse,purus sit,31,$65.66,$927.66
+511,1/10/2024,eros viverra eget,pretium,22,$6.49,$130.40
+512,10/19/2023,viverra diam vitae quam,at dolor,7,$34.14,$128.63
+513,3/27/2024,lobortis sapien sapien non,consequat morbi,54,$14.48,$201.26
+514,12/9/2023,ante ipsum primis in,vehicula condimentum,70,$40.67,$382.73
+515,6/4/2024,et ultrices posuere,eleifend donec,65,$84.02,$938.80
+516,3/4/2024,orci luctus et ultrices,interdum mauris,21,$21.06,$65.39
+517,10/17/2023,nulla quisque arcu,cubilia curae,6,$93.31,$557.68
+518,3/9/2024,lacus morbi sem,luctus,3,$31.48,$370.62
+519,9/29/2023,vitae nisi nam,dignissim,55,$10.19,$179.17
+520,12/7/2023,ultrices posuere cubilia curae,velit,53,$51.71,$241.72
+521,6/10/2024,arcu adipiscing molestie,ipsum,31,$57.14,$840.89
+522,4/29/2024,non interdum in ante,nunc purus,60,$25.99,$329.83
+523,5/18/2024,dolor quis odio,facilisi,32,$28.49,$283.37
+524,10/31/2023,tortor duis mattis,pellentesque,49,$12.25,$831.61
+525,4/9/2024,justo nec condimentum neque,est phasellus,31,$29.63,$332.92
+526,9/28/2023,nulla nunc purus phasellus,diam,80,$64.73,$435.35
+527,4/28/2024,eget eleifend luctus,in lacus,22,$14.62,$726.69
+528,8/12/2023,sit amet eleifend,id pretium,67,$13.86,$67.02
+529,12/26/2023,justo pellentesque viverra,morbi,10,$38.31,$382.85
+530,11/4/2023,sociis natoque penatibus et,amet lobortis,42,$3.35,$940.05
+531,2/12/2024,tortor duis mattis,semper rutrum,16,$25.90,$114.84
+532,2/29/2024,proin leo odio,molestie sed,30,$44.66,$799.93
+533,5/6/2024,libero non mattis,dapibus,95,$51.16,$165.39
+534,1/5/2024,morbi a ipsum integer,scelerisque mauris,54,$74.35,$247.30
+535,1/9/2024,eget congue eget semper,vestibulum sagittis,41,$85.91,$612.86
+536,10/8/2023,potenti in eleifend quam,semper,87,$90.13,$702.68
+537,9/8/2023,mattis odio donec vitae,cras,40,$80.34,$577.33
+538,7/23/2023,hac habitasse platea,viverra eget,58,$72.09,$995.06
+539,6/5/2024,integer ac leo,vestibulum,45,$99.71,$573.27
+540,12/20/2023,ligula nec sem duis,quam pharetra,14,$93.62,$9.13
+541,1/20/2024,justo in hac habitasse,pulvinar,89,$21.24,$453.03
+542,4/19/2024,nisl nunc rhoncus dui,proin risus,86,$80.44,$540.16
+543,6/5/2024,dictumst aliquam augue quam,eros,98,$72.95,$671.11
+544,8/24/2023,sagittis dui vel,eu orci,22,$33.40,$208.49
+545,12/3/2023,accumsan tellus nisi eu,erat volutpat,24,$51.96,$959.29
+546,3/1/2024,quis lectus suspendisse potenti,luctus tincidunt,60,$3.92,$861.04
+547,2/5/2024,urna ut tellus,enim lorem,11,$59.50,$935.21
+548,6/2/2024,parturient montes nascetur ridiculus,amet,79,$99.29,$678.43
+549,11/26/2023,vel sem sed sagittis,leo pellentesque,54,$39.66,$401.77
+550,1/1/2024,congue elementum in hac,non,57,$20.70,$984.74
+551,11/13/2023,metus arcu adipiscing molestie,penatibus et,6,$16.35,$31.33
+552,3/21/2024,mauris ullamcorper purus sit,diam,60,$16.82,$252.79
+553,7/7/2023,sed vestibulum sit amet,in,71,$96.87,$194.73
+554,7/11/2023,rhoncus mauris enim,vestibulum,33,$62.41,$693.36
+555,2/15/2024,cursus vestibulum proin,eu,3,$4.92,$966.30
+556,8/28/2023,posuere metus vitae ipsum,ut,27,$7.96,$607.93
+557,5/16/2024,curae nulla dapibus,tortor sollicitudin,72,$67.33,$81.85
+558,2/16/2024,ultrices posuere cubilia,rhoncus,78,$72.21,$829.26
+559,5/1/2024,tempor turpis nec euismod,congue,24,$87.87,$665.16
+560,7/19/2023,porta volutpat quam pede,lacus at,99,$52.09,$410.89
+561,1/15/2024,malesuada in imperdiet,dui,15,$67.82,$620.09
+562,4/19/2024,suspendisse potenti nullam,donec,38,$10.04,$675.62
+563,2/13/2024,pede ullamcorper augue a,convallis eget,69,$10.66,$715.45
+564,3/17/2024,posuere cubilia curae donec,viverra,81,$25.71,$505.41
+565,7/1/2023,lobortis est phasellus sit,pede,87,$46.08,$895.36
+566,10/7/2023,justo sit amet sapien,pede morbi,96,$85.54,$205.95
+567,11/4/2023,neque aenean auctor,quis tortor,70,$38.96,$325.83
+568,9/23/2023,tempus vivamus in felis,volutpat dui,27,$77.18,$384.50
+569,2/4/2024,ultricies eu nibh,odio,70,$25.00,$759.15
+570,6/10/2024,a ipsum integer,arcu sed,35,$87.55,$905.57
+571,2/11/2024,bibendum imperdiet nullam,nulla quisque,99,$82.43,$762.81
+572,10/5/2023,imperdiet nullam orci pede,vel,96,$70.49,$733.60
+573,8/12/2023,donec odio justo sollicitudin,amet,71,$90.33,$36.94
+574,3/2/2024,fringilla rhoncus mauris,nisi,13,$59.11,$48.50
+575,11/6/2023,in quam fringilla rhoncus,odio elementum,11,$98.67,$127.22
+576,9/10/2023,neque duis bibendum morbi,ac leo,52,$62.06,$189.98
+577,5/14/2024,eu nibh quisque,donec diam,98,$25.95,$465.23
+578,5/17/2024,ipsum primis in,ut volutpat,46,$9.26,$834.90
+579,6/19/2023,donec dapibus duis,quisque porta,59,$83.35,$688.42
+580,2/10/2024,suscipit nulla elit ac,eget tincidunt,80,$50.48,$12.50
+581,1/26/2024,in consequat ut,nam dui,42,$2.34,$12.80
+582,2/8/2024,donec pharetra magna vestibulum,quisque,42,$36.76,$52.27
+583,1/15/2024,erat eros viverra eget,bibendum,99,$32.23,$847.92
+584,3/3/2024,morbi non quam,viverra,47,$38.02,$57.35
+585,5/23/2024,donec ut mauris,ante,89,$16.09,$640.91
+586,9/7/2023,ornare imperdiet sapien,semper,90,$87.61,$179.11
+587,10/13/2023,aenean lectus pellentesque eget,eu massa,70,$99.96,$751.39
+588,7/17/2023,tempus semper est,id nisl,80,$27.14,$568.36
+589,10/14/2023,tortor risus dapibus,leo maecenas,97,$56.61,$566.85
+590,7/9/2023,aliquam non mauris morbi,turpis sed,91,$57.84,$727.01
+591,5/2/2024,at nibh in hac,venenatis,16,$49.96,$696.10
+592,4/21/2024,sed accumsan felis ut,orci luctus,30,$4.45,$30.67
+593,11/14/2023,congue etiam justo,enim blandit,46,$7.99,$422.18
+594,12/30/2023,libero convallis eget eleifend,sapien urna,80,$82.90,$307.51
+595,9/9/2023,suscipit a feugiat et,in,88,$15.70,$308.23
+596,8/5/2023,aliquam lacus morbi,felis,79,$82.60,$238.89
+597,7/17/2023,augue a suscipit nulla,ipsum,19,$22.83,$746.05
+598,4/21/2024,ipsum aliquam non,ligula sit,84,$89.99,$403.05
+599,4/8/2024,praesent id massa,pede,74,$21.29,$991.10
+600,12/5/2023,rutrum neque aenean auctor,vel lectus,60,$21.60,$184.07
+601,9/28/2023,sed tristique in tempus,adipiscing,88,$47.19,$552.58
+602,1/4/2024,semper est quam,ligula vehicula,95,$3.95,$900.71
+603,3/19/2024,lorem ipsum dolor sit,fusce,3,$60.89,$695.76
+604,3/1/2024,eu massa donec dapibus,in faucibus,10,$1.72,$552.67
+605,6/11/2024,nulla quisque arcu libero,eget,65,$66.65,$889.81
+606,7/24/2023,leo rhoncus sed,varius,33,$23.35,$116.48
+607,11/7/2023,in tempus sit amet,lacus,39,$13.41,$277.09
+608,3/30/2024,non lectus aliquam sit,lorem vitae,61,$54.74,$12.99
+609,5/7/2024,tellus in sagittis,non,83,$5.41,$187.11
+610,12/7/2023,primis in faucibus,lorem ipsum,37,$51.51,$119.66
+611,4/18/2024,id sapien in sapien,proin interdum,29,$47.08,$627.27
+612,7/8/2023,justo sollicitudin ut suscipit,vestibulum rutrum,55,$2.88,$170.42
+613,11/3/2023,eget tincidunt eget tempus,suscipit,72,$87.90,$300.17
+614,8/24/2023,consequat ut nulla sed,ullamcorper,79,$15.25,$980.88
+615,1/17/2024,tincidunt eu felis,nunc,41,$86.45,$474.67
+616,12/21/2023,nisi volutpat eleifend,urna pretium,41,$11.56,$964.78
+617,11/13/2023,turpis nec euismod,hac habitasse,99,$22.98,$747.26
+618,1/15/2024,nec euismod scelerisque quam,eget tincidunt,37,$32.02,$737.87
+619,2/16/2024,justo sit amet,tortor,51,$17.78,$720.68
+620,3/9/2024,et ultrices posuere cubilia,non ligula,75,$23.72,$580.73
+621,12/18/2023,curae mauris viverra,tincidunt ante,30,$10.23,$512.28
+622,8/29/2023,venenatis tristique fusce congue,luctus et,31,$24.09,$130.60
+623,11/8/2023,mollis molestie lorem,quis odio,36,$21.24,$249.47
+624,9/12/2023,vitae consectetuer eget rutrum,in,60,$75.76,$666.28
+625,6/15/2023,pede venenatis non,suspendisse accumsan,43,$42.92,$42.37
+626,4/21/2024,at velit vivamus vel,erat vestibulum,68,$63.39,$202.42
+627,3/9/2024,adipiscing lorem vitae,pede,37,$40.54,$864.33
+628,6/26/2023,amet consectetuer adipiscing,amet,56,$50.20,$618.66
+629,1/9/2024,purus sit amet nulla,molestie,9,$38.34,$931.63
+630,8/4/2023,nullam molestie nibh in,ante,38,$97.27,$931.98
+631,9/4/2023,convallis tortor risus dapibus,ullamcorper,32,$99.74,$163.93
+632,4/6/2024,fusce consequat nulla,sem fusce,50,$71.91,$518.56
+633,4/22/2024,augue quam sollicitudin,mauris,41,$81.86,$687.28
+634,1/30/2024,sem duis aliquam convallis,id,23,$32.96,$868.11
+635,2/5/2024,massa quis augue luctus,eget,61,$98.11,$599.51
+636,4/24/2024,turpis integer aliquet,nibh,39,$47.01,$738.70
+637,8/2/2023,pellentesque eget nunc donec,nisl nunc,30,$2.78,$659.41
+638,5/10/2024,vestibulum ante ipsum,luctus tincidunt,66,$4.96,$176.22
+639,10/30/2023,lacinia erat vestibulum sed,semper,91,$79.58,$849.09
+640,5/1/2024,maecenas tincidunt lacus at,tincidunt,33,$48.10,$959.59
+641,11/12/2023,ultrices libero non mattis,platea dictumst,44,$33.05,$653.59
+642,12/19/2023,phasellus in felis donec,nulla integer,85,$4.05,$613.80
+643,4/17/2024,integer ac neque duis,suscipit,46,$76.75,$910.52
+644,4/25/2024,vivamus vestibulum sagittis,in hac,59,$92.74,$435.32
+645,7/18/2023,mi in porttitor,phasellus sit,42,$89.00,$779.32
+646,7/14/2023,lorem ipsum dolor,lacinia nisi,70,$39.73,$385.04
+647,5/7/2024,integer pede justo,venenatis tristique,57,$37.09,$238.98
+648,4/14/2024,et tempus semper,sit,89,$72.98,$978.59
+649,3/31/2024,sed tristique in tempus,ut,29,$67.12,$960.18
+650,5/16/2024,diam erat fermentum justo,justo lacinia,75,$45.05,$591.21
+651,10/29/2023,sagittis sapien cum,eu mi,63,$85.86,$645.43
+652,6/15/2023,cubilia curae mauris viverra,lectus,78,$11.10,$727.94
+653,5/20/2024,iaculis diam erat,et,24,$65.36,$25.63
+654,2/2/2024,erat quisque erat eros,congue vivamus,60,$39.44,$977.82
+655,1/26/2024,lectus pellentesque eget,in imperdiet,95,$39.14,$445.70
+656,2/10/2024,fermentum justo nec condimentum,vestibulum,50,$12.10,$85.60
+657,10/5/2023,blandit mi in porttitor,penatibus,87,$63.38,$326.84
+658,1/3/2024,fusce lacus purus,quisque,7,$32.29,$685.64
+659,5/30/2024,neque aenean auctor,consequat,43,$73.95,$938.63
+660,9/15/2023,lobortis est phasellus sit,interdum eu,32,$52.82,$89.14
+661,1/16/2024,accumsan tortor quis turpis,ultrices posuere,97,$56.16,$450.77
+662,1/6/2024,quis augue luctus,ac,10,$2.72,$36.64
+663,4/4/2024,risus semper porta,in libero,90,$36.44,$495.60
+664,5/7/2024,nisl duis ac,ac,64,$4.71,$370.19
+665,12/2/2023,urna pretium nisl,sociis,8,$84.80,$388.28
+666,10/20/2023,tellus nisi eu orci,justo,73,$54.77,$625.91
+667,9/10/2023,porttitor lacus at,ante ipsum,47,$47.27,$582.79
+668,3/6/2024,erat fermentum justo,ac nulla,5,$98.82,$963.03
+669,5/7/2024,in est risus auctor,etiam,45,$12.10,$983.96
+670,4/25/2024,id pretium iaculis,amet,53,$93.44,$400.30
+671,2/15/2024,sapien quis libero,pellentesque eget,74,$20.36,$63.36
+672,7/10/2023,congue etiam justo etiam,ultrices,58,$95.14,$149.57
+673,3/30/2024,sapien cursus vestibulum,aliquet maecenas,20,$26.50,$941.88
+674,10/5/2023,vel nisl duis ac,sem sed,20,$2.79,$250.02
+675,12/7/2023,etiam pretium iaculis,eget tempus,67,$71.23,$56.69
+676,3/13/2024,ridiculus mus vivamus vestibulum,vivamus metus,45,$23.80,$552.32
+677,10/2/2023,luctus et ultrices,ac,44,$49.56,$389.43
+678,3/20/2024,in sagittis dui vel,nibh,94,$5.06,$473.61
+679,8/11/2023,purus eu magna vulputate,suscipit nulla,7,$58.71,$458.28
+680,5/22/2024,in quam fringilla rhoncus,amet eros,42,$45.09,$185.53
+681,11/8/2023,justo pellentesque viverra pede,quam,7,$96.07,$551.99
+682,4/30/2024,placerat praesent blandit nam,posuere felis,88,$24.14,$761.49
+683,2/25/2024,nulla tellus in sagittis,nulla pede,97,$53.87,$177.33
+684,3/16/2024,tincidunt ante vel ipsum,etiam pretium,90,$92.14,$123.95
+685,12/17/2023,id pretium iaculis diam,morbi,79,$93.95,$832.05
+686,11/11/2023,quam sapien varius ut,nulla sed,74,$80.08,$812.23
+687,2/10/2024,aliquam convallis nunc proin,dui,100,$80.75,$852.68
+688,10/17/2023,pulvinar nulla pede,sit,68,$14.16,$611.63
+689,3/10/2024,non quam nec,phasellus in,65,$67.70,$734.52
+690,1/15/2024,rutrum neque aenean auctor,vel,43,$75.50,$121.12
+691,11/23/2023,sociis natoque penatibus et,condimentum,4,$63.41,$185.00
+692,2/6/2024,purus phasellus in felis,hac habitasse,37,$96.53,$747.76
+693,8/28/2023,eleifend donec ut dolor,nulla quisque,54,$38.13,$264.32
+694,9/15/2023,nisl aenean lectus,pretium nisl,76,$41.46,$370.90
+695,3/24/2024,sodales scelerisque mauris sit,auctor,84,$23.28,$195.35
+696,12/30/2023,ultrices phasellus id,porttitor id,65,$8.21,$225.30
+697,4/28/2024,platea dictumst maecenas ut,aliquet,63,$77.19,$987.06
+698,2/18/2024,rhoncus aliquet pulvinar sed,ligula in,12,$66.61,$505.75
+699,3/6/2024,ligula vehicula consequat morbi,justo,11,$81.27,$615.28
+700,10/29/2023,in porttitor pede,justo,14,$6.06,$393.22
+701,7/6/2023,nam congue risus semper,parturient,67,$48.01,$29.25
+702,2/11/2024,congue vivamus metus,integer,33,$13.98,$795.20
+703,8/17/2023,nisi vulputate nonummy maecenas,erat,75,$55.54,$933.61
+704,7/18/2023,dui vel nisl duis,quam fringilla,75,$8.42,$448.74
+705,9/10/2023,aliquam non mauris morbi,natoque,46,$2.82,$966.22
+706,3/24/2024,duis mattis egestas metus,erat,66,$56.95,$860.15
+707,11/20/2023,justo maecenas rhoncus aliquam,rhoncus,53,$58.30,$24.28
+708,4/18/2024,at turpis donec,lectus suspendisse,27,$18.80,$334.30
+709,3/6/2024,platea dictumst morbi vestibulum,orci mauris,61,$70.60,$607.51
+710,8/5/2023,praesent blandit nam nulla,velit vivamus,50,$39.69,$933.03
+711,4/24/2024,augue vestibulum ante ipsum,vehicula,97,$71.64,$914.73
+712,10/1/2023,hendrerit at vulputate,ligula suspendisse,47,$48.16,$700.42
+713,2/21/2024,dolor sit amet,quam,17,$12.26,$899.93
+714,6/28/2023,aliquet massa id,eros,12,$20.74,$904.95
+715,3/4/2024,in felis donec semper,in,69,$14.22,$619.44
+716,4/17/2024,dolor sit amet consectetuer,mus,75,$29.18,$864.21
+717,10/2/2023,in ante vestibulum ante,quis lectus,65,$18.61,$430.11
+718,2/27/2024,lorem id ligula,morbi ut,8,$90.64,$528.17
+719,8/1/2023,amet turpis elementum ligula,maecenas,52,$94.16,$662.38
+720,10/9/2023,lacinia eget tincidunt eget,ac,20,$45.00,$499.55
+721,3/6/2024,id nulla ultrices aliquet,ipsum,11,$94.50,$503.55
+722,9/22/2023,vestibulum aliquet ultrices,sapien,89,$21.03,$417.58
+723,8/15/2023,sed vel enim,tristique,88,$23.60,$284.92
+724,2/1/2024,curae duis faucibus accumsan,mi,37,$73.93,$22.92
+725,2/25/2024,mauris morbi non,faucibus,57,$81.86,$299.51
+726,7/28/2023,at vulputate vitae,sapien dignissim,65,$3.60,$599.13
+727,5/11/2024,tristique tortor eu pede,sit,32,$74.82,$513.53
+728,5/6/2024,porttitor pede justo,eros vestibulum,88,$52.99,$569.86
+729,3/6/2024,vestibulum aliquet ultrices erat,id massa,49,$38.83,$925.46
+730,3/24/2024,et commodo vulputate justo,massa,4,$79.44,$232.72
+731,8/12/2023,id luctus nec,nullam,14,$84.39,$39.48
+732,10/8/2023,vestibulum sed magna,vulputate ut,94,$98.88,$129.56
+733,1/18/2024,nullam molestie nibh,ultricies eu,51,$58.78,$620.81
+734,1/18/2024,posuere felis sed lacus,in tempor,76,$2.51,$817.42
+735,8/28/2023,in felis donec,et magnis,87,$39.89,$721.12
+736,6/5/2024,eget nunc donec quis,luctus,9,$78.37,$648.06
+737,3/7/2024,tempor turpis nec,augue,92,$85.76,$292.06
+738,9/22/2023,aliquam augue quam sollicitudin,ridiculus mus,67,$24.50,$932.54
+739,12/11/2023,maecenas pulvinar lobortis est,risus,9,$52.36,$35.33
+740,10/17/2023,libero nam dui proin,quis lectus,13,$59.77,$179.85
+741,4/18/2024,ligula nec sem,eget orci,60,$43.06,$419.51
+742,9/11/2023,morbi non lectus,ipsum,17,$43.96,$857.46
+743,3/13/2024,nascetur ridiculus mus,lacinia erat,72,$70.23,$250.79
+744,1/10/2024,nisi venenatis tristique,est phasellus,63,$42.43,$23.03
+745,2/2/2024,quisque arcu libero,massa donec,29,$7.83,$460.03
+746,1/22/2024,nulla quisque arcu,vel ipsum,74,$81.55,$523.44
+747,3/9/2024,sapien ut nunc vestibulum,at dolor,78,$81.66,$657.45
+748,2/12/2024,nunc commodo placerat praesent,egestas,48,$40.99,$3.73
+749,6/18/2023,nulla quisque arcu,habitasse,73,$98.34,$469.40
+750,11/11/2023,ante vel ipsum praesent,blandit ultrices,62,$47.38,$837.20
+751,4/1/2024,vulputate ut ultrices,cursus id,78,$88.08,$819.15
+752,5/7/2024,vel pede morbi,sed accumsan,11,$69.05,$11.01
+753,3/16/2024,at velit eu est,sed ante,5,$18.38,$515.41
+754,12/14/2023,est phasellus sit amet,quis,1,$54.55,$918.09
+755,7/13/2023,at turpis a pede,neque,13,$73.44,$596.27
+756,9/9/2023,vulputate justo in blandit,at feugiat,4,$93.95,$394.51
+757,2/23/2024,euismod scelerisque quam,quis justo,18,$25.68,$940.82
+758,2/18/2024,semper est quam pharetra,amet,66,$3.55,$683.53
+759,12/12/2023,blandit lacinia erat,aliquam lacus,52,$47.09,$29.98
+760,11/30/2023,sit amet lobortis sapien,et,77,$86.09,$9.00
+761,4/22/2024,nulla elit ac,rutrum,22,$88.34,$716.76
+762,2/13/2024,cubilia curae donec pharetra,nisi,97,$69.49,$159.04
+763,12/28/2023,sodales sed tincidunt eu,morbi,95,$72.61,$93.76
+764,6/14/2023,cubilia curae duis,sollicitudin ut,89,$50.69,$506.82
+765,5/23/2024,nulla tempus vivamus,blandit,86,$27.96,$530.59
+766,8/12/2023,leo odio condimentum,leo odio,73,$34.11,$58.85
+767,7/2/2023,morbi non quam,aenean fermentum,20,$18.09,$855.59
+768,4/4/2024,odio consequat varius integer,ut ultrices,46,$98.84,$128.02
+769,8/10/2023,volutpat quam pede lobortis,at,69,$39.96,$18.83
+770,5/17/2024,lectus vestibulum quam,ipsum primis,66,$6.37,$921.95
+771,1/7/2024,quam pede lobortis ligula,luctus tincidunt,42,$84.39,$543.30
+772,12/21/2023,eget massa tempor,nonummy,44,$41.16,$552.51
+773,10/27/2023,lobortis vel dapibus,accumsan tortor,7,$75.29,$96.27
+774,8/14/2023,maecenas ut massa quis,elit sodales,30,$39.43,$804.58
+775,6/5/2024,nulla mollis molestie,nulla,68,$89.36,$596.29
+776,7/3/2023,accumsan felis ut at,erat,42,$80.12,$993.35
+777,2/17/2024,et commodo vulputate,orci eget,6,$7.02,$735.90
+778,12/9/2023,amet sem fusce consequat,mattis pulvinar,42,$15.00,$383.81
+779,9/24/2023,lacinia aenean sit,mus etiam,35,$45.77,$43.31
+780,2/8/2024,tempor convallis nulla,mattis nibh,52,$4.72,$733.40
+781,12/1/2023,nunc proin at,tristique,86,$39.12,$868.02
+782,3/14/2024,mi nulla ac enim,erat,45,$27.64,$507.63
+783,3/26/2024,pede libero quis orci,id,76,$57.62,$701.75
+784,6/16/2023,ipsum aliquam non,velit,18,$3.73,$82.73
+785,3/22/2024,id mauris vulputate,dui,14,$99.60,$415.61
+786,2/6/2024,odio condimentum id luctus,vel nisl,97,$52.23,$962.43
+787,2/13/2024,posuere felis sed lacus,vel lectus,34,$35.36,$474.90
+788,7/31/2023,risus praesent lectus vestibulum,convallis,97,$11.77,$442.41
+789,12/25/2023,enim in tempor turpis,ligula,63,$13.93,$701.94
+790,4/23/2024,eu magna vulputate,et magnis,14,$74.78,$725.00
+791,4/16/2024,commodo placerat praesent blandit,in,55,$19.17,$197.44
+792,1/17/2024,dapibus duis at,semper interdum,14,$87.67,$618.56
+793,7/18/2023,sem duis aliquam,posuere metus,42,$33.79,$971.10
+794,11/3/2023,praesent id massa,tristique tortor,59,$75.50,$345.02
+795,4/4/2024,ipsum primis in faucibus,sed,65,$21.99,$528.50
+796,4/11/2024,in faucibus orci luctus,pulvinar nulla,84,$32.93,$782.38
+797,5/20/2024,eros vestibulum ac est,fermentum justo,35,$20.01,$342.70
+798,4/9/2024,vestibulum ante ipsum primis,rutrum,72,$61.17,$610.72
+799,10/11/2023,vulputate ut ultrices,quis,36,$21.33,$714.04
+800,5/7/2024,quam suspendisse potenti nullam,odio,75,$59.37,$471.12
+801,7/31/2023,bibendum felis sed interdum,quis tortor,36,$84.13,$572.42
+802,10/23/2023,id turpis integer,pretium,66,$11.38,$413.37
+803,2/16/2024,sed ante vivamus tortor,lectus aliquam,98,$89.36,$146.26
+804,7/8/2023,sapien arcu sed augue,volutpat quam,71,$62.20,$114.60
+805,6/29/2023,rutrum at lorem,nulla elit,44,$77.50,$543.06
+806,10/5/2023,tincidunt nulla mollis,vestibulum,80,$85.65,$236.72
+807,6/12/2024,aliquam erat volutpat,in,83,$49.21,$816.97
+808,2/13/2024,proin risus praesent,odio,44,$46.84,$724.93
+809,12/13/2023,non mi integer ac,nulla,66,$78.05,$15.98
+810,5/7/2024,mi pede malesuada in,consequat,75,$13.05,$350.64
+811,11/13/2023,nullam porttitor lacus,luctus et,23,$55.34,$384.32
+812,2/25/2024,quisque erat eros viverra,nam congue,5,$53.57,$374.42
+813,4/3/2024,ridiculus mus vivamus,volutpat,5,$47.33,$649.18
+814,3/17/2024,sapien iaculis congue vivamus,lectus vestibulum,62,$70.03,$840.76
+815,12/6/2023,odio curabitur convallis duis,luctus,34,$95.60,$669.94
+816,2/4/2024,mi sit amet lobortis,lacus,86,$35.01,$144.28
+817,1/24/2024,quisque porta volutpat erat,vel,94,$64.10,$951.06
+818,3/25/2024,vestibulum aliquet ultrices,non mi,95,$4.03,$562.28
+819,12/20/2023,mi integer ac neque,id,11,$87.11,$386.59
+820,10/5/2023,pellentesque at nulla suspendisse,eu mi,58,$51.16,$973.40
+821,12/23/2023,ante ipsum primis in,dui nec,14,$3.38,$321.04
+822,12/28/2023,elementum in hac habitasse,at,76,$32.47,$883.55
+823,9/7/2023,eu orci mauris,magna bibendum,15,$30.56,$782.44
+824,3/9/2024,posuere cubilia curae,ante,24,$95.07,$767.11
+825,10/28/2023,vulputate nonummy maecenas,porttitor lacus,81,$22.37,$910.92
+826,9/19/2023,praesent blandit lacinia erat,justo in,12,$93.64,$105.30
+827,9/12/2023,mi pede malesuada in,odio odio,62,$49.10,$476.56
+828,10/7/2023,nam tristique tortor,aliquam convallis,83,$43.03,$763.22
+829,2/11/2024,nulla mollis molestie,morbi vestibulum,54,$51.70,$998.95
+830,6/22/2023,feugiat non pretium quis,ac,58,$40.73,$64.86
+831,10/11/2023,consequat morbi a,vitae,81,$12.48,$736.93
+832,10/19/2023,sapien cum sociis natoque,orci nullam,99,$65.70,$60.37
+833,11/16/2023,ligula nec sem duis,erat,33,$76.93,$369.52
+834,9/25/2023,cursus urna ut tellus,nec,84,$12.32,$413.23
+835,5/4/2024,suscipit nulla elit,dignissim vestibulum,5,$60.88,$915.74
+836,8/11/2023,odio in hac habitasse,natoque penatibus,10,$82.72,$519.16
+837,7/27/2023,orci luctus et,eleifend quam,73,$4.05,$748.85
+838,10/23/2023,nulla dapibus dolor vel,molestie sed,56,$71.05,$671.30
+839,4/7/2024,nulla mollis molestie lorem,consequat ut,67,$15.37,$488.04
+840,1/30/2024,mus vivamus vestibulum,mauris,59,$17.35,$70.87
+841,9/4/2023,magnis dis parturient montes,morbi vel,7,$14.35,$15.20
+842,9/8/2023,donec semper sapien a,nisl ut,65,$51.25,$473.01
+843,2/22/2024,mauris non ligula pellentesque,at,43,$79.13,$201.93
+844,1/24/2024,vel ipsum praesent blandit,nulla,40,$97.63,$449.20
+845,5/17/2024,sapien arcu sed,vitae quam,50,$88.48,$688.62
+846,5/25/2024,rhoncus aliquam lacus,semper,56,$63.07,$509.50
+847,1/18/2024,ultrices mattis odio,luctus,81,$64.92,$741.96
+848,5/4/2024,amet sem fusce consequat,nec dui,74,$71.20,$843.61
+849,8/7/2023,sollicitudin mi sit,sociis,78,$75.18,$973.09
+850,4/5/2024,eget tincidunt eget tempus,purus,68,$69.68,$201.28
+851,9/27/2023,diam erat fermentum justo,sapien,19,$87.91,$252.45
+852,7/5/2023,turpis enim blandit,amet,50,$88.77,$60.31
+853,7/21/2023,venenatis turpis enim blandit,praesent blandit,72,$86.76,$201.79
+854,3/31/2024,massa id nisl,vulputate,20,$87.67,$843.92
+855,3/6/2024,sapien quis libero nullam,tincidunt in,6,$24.50,$838.95
+856,7/1/2023,quis lectus suspendisse,potenti,72,$8.57,$595.46
+857,12/11/2023,rhoncus mauris enim leo,in quis,2,$34.60,$834.53
+858,1/5/2024,mi integer ac neque,nulla nunc,26,$83.05,$101.37
+859,5/1/2024,faucibus accumsan odio curabitur,duis aliquam,7,$77.29,$20.69
+860,4/14/2024,amet turpis elementum,tellus,28,$27.09,$71.33
+861,10/3/2023,ut blandit non interdum,aliquet ultrices,24,$93.18,$295.53
+862,11/2/2023,lorem ipsum dolor sit,amet,10,$39.34,$148.60
+863,1/28/2024,montes nascetur ridiculus,pede venenatis,99,$54.43,$650.83
+864,2/12/2024,ut suscipit a feugiat,in,22,$68.76,$259.29
+865,6/2/2024,tincidunt in leo maecenas,ultrices aliquet,65,$75.80,$528.86
+866,2/12/2024,nascetur ridiculus mus,ante ipsum,18,$97.08,$370.83
+867,7/29/2023,vitae consectetuer eget rutrum,adipiscing molestie,29,$28.45,$71.47
+868,6/13/2024,vel sem sed,diam in,36,$10.32,$988.15
+869,1/18/2024,at diam nam,quis augue,20,$41.60,$691.21
+870,2/17/2024,sem fusce consequat nulla,fusce,1,$23.75,$266.20
+871,10/25/2023,mauris enim leo,justo,89,$56.28,$340.27
+872,6/27/2023,dis parturient montes nascetur,vivamus,42,$47.76,$162.35
+873,4/21/2024,curabitur at ipsum,orci,82,$57.79,$210.10
+874,3/9/2024,praesent id massa id,hac habitasse,48,$71.84,$366.28
+875,1/8/2024,posuere cubilia curae,sapien,71,$51.98,$637.70
+876,6/4/2024,sociis natoque penatibus,ipsum,79,$65.07,$575.38
+877,3/13/2024,montes nascetur ridiculus,adipiscing elit,95,$96.13,$648.23
+878,6/23/2023,potenti in eleifend quam,vitae mattis,64,$19.21,$409.21
+879,3/24/2024,consectetuer adipiscing elit proin,dui maecenas,100,$3.25,$667.50
+880,1/17/2024,eu orci mauris,sed,94,$37.43,$162.15
+881,7/16/2023,maecenas tincidunt lacus at,adipiscing,1,$16.11,$665.99
+882,6/24/2023,pretium iaculis justo,etiam faucibus,13,$87.55,$413.93
+883,5/27/2024,vestibulum ante ipsum primis,integer a,12,$36.54,$895.80
+884,7/29/2023,nisi at nibh in,nec,56,$34.68,$228.82
+885,8/4/2023,duis consequat dui nec,sapien,6,$10.79,$848.94
+886,9/15/2023,dictumst morbi vestibulum velit,tellus nisi,29,$99.13,$917.18
+887,1/26/2024,id mauris vulputate,faucibus accumsan,95,$42.10,$344.98
+888,7/10/2023,morbi a ipsum integer,suspendisse potenti,78,$93.39,$932.35
+889,5/8/2024,venenatis tristique fusce,dis,1,$77.94,$180.61
+890,9/3/2023,duis consequat dui,accumsan odio,47,$19.46,$25.10
+891,11/10/2023,sagittis dui vel,lorem,63,$92.37,$981.96
+892,12/13/2023,porta volutpat erat,eros,13,$78.64,$707.87
+893,6/30/2023,sapien cursus vestibulum proin,nunc proin,82,$63.63,$58.83
+894,7/17/2023,erat eros viverra eget,pede libero,39,$45.90,$679.13
+895,12/25/2023,dui maecenas tristique,cras mi,63,$68.05,$670.43
+896,12/14/2023,in hac habitasse platea,et ultrices,7,$18.11,$800.25
+897,5/26/2024,ante ipsum primis,venenatis,97,$68.37,$684.96
+898,7/26/2023,condimentum neque sapien,nulla sed,13,$35.04,$179.13
+899,10/7/2023,mauris viverra diam,lectus in,61,$45.78,$803.38
+900,5/20/2024,lobortis vel dapibus at,ultrices,87,$99.43,$961.50
+901,2/9/2024,turpis donec posuere metus,semper,5,$74.10,$914.58
+902,8/10/2023,luctus nec molestie,interdum,73,$21.73,$854.70
+903,4/22/2024,erat quisque erat,etiam justo,60,$63.93,$490.29
+904,5/10/2024,elementum in hac habitasse,nam,75,$36.82,$133.57
+905,8/9/2023,cras in purus eu,quisque,2,$14.08,$88.85
+906,7/26/2023,id consequat in,dis,36,$35.17,$51.32
+907,2/11/2024,placerat ante nulla,libero nullam,30,$97.12,$455.53
+908,10/28/2023,nisi volutpat eleifend,nunc commodo,11,$86.17,$410.11
+909,7/5/2023,et magnis dis,turpis,19,$86.24,$891.50
+910,4/28/2024,vel est donec odio,eget,95,$34.83,$927.73
+911,9/9/2023,hac habitasse platea dictumst,posuere,38,$36.44,$974.35
+912,11/19/2023,duis consequat dui nec,lacus at,53,$68.13,$702.75
+913,3/20/2024,vestibulum quam sapien varius,amet eleifend,27,$88.59,$378.82
+914,10/30/2023,enim in tempor,ut rhoncus,69,$35.63,$206.76
+915,6/30/2023,auctor sed tristique in,nullam,2,$50.19,$407.29
+916,8/30/2023,sit amet consectetuer,sed,25,$61.31,$244.32
+917,9/24/2023,vivamus in felis eu,donec,31,$35.70,$82.58
+918,3/11/2024,magna vestibulum aliquet,tortor,28,$29.68,$153.99
+919,3/29/2024,enim leo rhoncus sed,dui,53,$71.15,$8.52
+920,6/22/2023,suscipit nulla elit,nunc,34,$67.73,$436.70
+921,8/2/2023,orci luctus et ultrices,sit amet,23,$6.39,$206.95
+922,10/25/2023,metus sapien ut nunc,faucibus orci,98,$74.32,$729.56
+923,7/3/2023,sociis natoque penatibus,tincidunt ante,6,$87.02,$150.24
+924,9/6/2023,nulla ultrices aliquet,id,35,$76.86,$594.09
+925,11/29/2023,ut mauris eget,nisi vulputate,30,$96.86,$64.05
+926,1/23/2024,sit amet eleifend,vel est,13,$17.84,$291.96
+927,11/29/2023,nonummy integer non,mattis nibh,37,$96.52,$897.12
+928,10/24/2023,nisi at nibh in,quis augue,83,$63.81,$426.36
+929,3/26/2024,ipsum primis in,turpis,79,$66.76,$505.25
+930,4/6/2024,sem sed sagittis,maecenas,89,$5.89,$765.73
+931,1/27/2024,a ipsum integer a,consequat,13,$9.03,$210.45
+932,5/15/2024,ac nibh fusce lacus,tempus vivamus,5,$64.50,$573.31
+933,7/20/2023,sagittis nam congue,maecenas,82,$97.08,$525.19
+934,12/25/2023,nec nisi volutpat eleifend,nunc,57,$69.20,$14.88
+935,4/19/2024,nec nisi volutpat,aliquet,86,$79.38,$272.70
+936,3/8/2024,dapibus augue vel,mus,1,$68.18,$335.10
+937,2/17/2024,velit donec diam,enim in,51,$86.92,$933.96
+938,9/30/2023,eget orci vehicula condimentum,sit amet,58,$32.70,$313.85
+939,6/11/2024,quis turpis sed ante,cras,43,$71.90,$190.16
+940,10/2/2023,sapien varius ut,at nibh,86,$86.19,$177.37
+941,11/18/2023,nisi at nibh in,proin eu,58,$49.25,$459.28
+942,5/16/2024,consectetuer adipiscing elit,dolor,79,$67.24,$809.18
+943,4/26/2024,sit amet erat,morbi,48,$46.00,$777.42
+944,6/29/2023,consequat morbi a,sapien,18,$93.33,$273.39
+945,10/19/2023,a libero nam,vestibulum,41,$81.59,$144.34
+946,8/30/2023,massa volutpat convallis morbi,arcu sed,18,$50.54,$804.27
+947,6/16/2023,felis ut at dolor,nec euismod,46,$19.21,$261.63
+948,7/30/2023,faucibus accumsan odio,tellus nulla,25,$8.85,$686.05
+949,7/1/2023,vestibulum quam sapien,id lobortis,87,$81.40,$934.23
+950,4/4/2024,amet nunc viverra,odio odio,63,$15.71,$653.09
+951,7/4/2023,id consequat in consequat,duis,9,$47.29,$82.54
+952,9/28/2023,elementum pellentesque quisque porta,nunc,62,$38.39,$814.22
+953,3/15/2024,at diam nam,eros elementum,29,$34.74,$584.01
+954,12/17/2023,lorem ipsum dolor,nec,85,$51.02,$188.22
+955,2/15/2024,consequat morbi a,velit,71,$31.41,$114.36
+956,8/18/2023,at velit vivamus,gravida,80,$14.62,$387.65
+957,9/21/2023,id luctus nec,id,18,$17.87,$132.53
+958,10/21/2023,gravida sem praesent,parturient montes,57,$80.05,$314.85
+959,10/15/2023,dui vel nisl duis,imperdiet sapien,53,$29.71,$171.74
+960,9/22/2023,tellus nisi eu,in,91,$32.84,$659.10
+961,9/28/2023,in faucibus orci luctus,risus auctor,96,$5.67,$759.96
+962,8/15/2023,nullam orci pede venenatis,eget,63,$95.65,$990.13
+963,10/11/2023,potenti nullam porttitor lacus,in,17,$44.31,$680.63
+964,3/3/2024,vivamus tortor duis,non mauris,17,$76.55,$63.40
+965,2/8/2024,congue vivamus metus arcu,erat tortor,45,$83.05,$957.72
+966,6/6/2024,est phasellus sit amet,sollicitudin mi,46,$85.84,$699.57
+967,9/26/2023,vestibulum sagittis sapien,aliquet maecenas,44,$95.28,$717.48
+968,8/24/2023,proin leo odio,lorem,65,$81.51,$317.72
+969,9/9/2023,quis libero nullam,varius,9,$84.22,$420.33
+970,10/13/2023,amet diam in,id,41,$67.32,$694.97
+971,2/8/2024,vitae nisi nam,natoque,96,$45.48,$238.68
+972,11/24/2023,venenatis tristique fusce,ridiculus,55,$89.97,$617.21
+973,3/30/2024,ultrices mattis odio donec,tortor,14,$15.17,$181.15
+974,1/20/2024,metus aenean fermentum,odio justo,14,$54.08,$590.41
+975,6/29/2023,duis at velit eu,nullam orci,26,$21.54,$627.76
+976,8/11/2023,eget massa tempor convallis,phasellus sit,64,$22.10,$187.06
+977,2/23/2024,a odio in hac,tincidunt,30,$20.03,$214.56
+978,8/3/2023,in faucibus orci luctus,eu massa,67,$12.98,$784.63
+979,12/28/2023,massa id nisl,ridiculus,71,$47.32,$864.78
+980,4/23/2024,nisi vulputate nonummy,quam,37,$22.56,$314.74
+981,1/28/2024,orci luctus et ultrices,sapien varius,76,$34.71,$219.55
+982,4/7/2024,lorem ipsum dolor,pellentesque,47,$80.79,$217.19
+983,5/8/2024,vulputate vitae nisl,libero quis,6,$51.54,$170.74
+984,11/19/2023,convallis tortor risus dapibus,turpis,56,$10.85,$236.91
+985,11/25/2023,posuere metus vitae,maecenas,56,$42.90,$1.07
+986,10/25/2023,justo eu massa,odio porttitor,38,$40.43,$261.13
+987,9/23/2023,lacus morbi quis,sit amet,61,$22.86,$254.14
+988,7/19/2023,ultrices posuere cubilia curae,ac,60,$19.22,$650.69
+989,12/28/2023,at velit eu est,elementum,88,$13.80,$249.45
+990,1/5/2024,aliquet maecenas leo odio,id,14,$74.50,$516.01
+991,11/14/2023,dui luctus rutrum nulla,ut,69,$76.46,$873.33
+992,6/16/2023,lobortis convallis tortor risus,blandit ultrices,22,$78.69,$319.84
+993,9/19/2023,ipsum dolor sit amet,ipsum,86,$77.02,$634.14
+994,10/31/2023,ornare imperdiet sapien,sollicitudin,53,$96.72,$426.66
+995,11/30/2023,tellus nisi eu,consequat,2,$44.80,$442.93
+996,9/16/2023,nullam orci pede venenatis,sed,58,$39.84,$221.80
+997,6/2/2024,nisl nunc nisl,nec,6,$83.10,$434.26
+998,3/16/2024,vel dapibus at diam,ut,68,$22.01,$648.37
+999,6/4/2024,donec posuere metus,massa,47,$17.46,$97.77
+1000,10/10/2023,est quam pharetra,hac,13,$44.18,$810.40

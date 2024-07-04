@@ -169,11 +169,14 @@ section.live {
     flex: 0 0 calc(25% - 30px);
     max-width: calc(25% - 30px);
     margin: 15px;
+    padding: 10px 0;
+    background-color: white;
+    border: .1rem solid var(--light-color);
 }
 
 .teams img {
     width: 100%;
-    height: auto;
+    height: 300px;
     object-fit: cover;
 }
 
@@ -556,8 +559,12 @@ section.live {
 
 @media (max-width: 910px) {
     .teams .col-lg-3 {
-        flex: 0 0 calc(33.333% - 30px);
-        max-width: calc(33.333% - 30px);
+        flex: 0 0 calc(50% - 30px);
+        max-width: calc(50% - 30px);
+    }
+
+    .players img {
+        height: fit-content;
     }
 }
 
@@ -640,6 +647,24 @@ section.live {
         font-size: 1.2rem;
     }
 
+}
+
+@media (max-width: 570px){
+    .footer .box-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .footer .box-container > * {
+        width: 100%; 
+    }
+
+    .footer .box-container .box a {
+        font-size: 2rem; 
+    }
 }
 
 @media (max-width: 500px) {

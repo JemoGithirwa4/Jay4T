@@ -1,0 +1,1001 @@
+id,date,sponsor_name,amount,type
+1,8/3/2024,Safaricom,$59616.80,Main Sponsor
+2,1/1/2025,E2 industries,$72313.83,Kit Sponsor
+3,3/22/2025,E2 industries,$70405.53,Kit Sponsor
+4,7/28/2024,Safaricom,$43329.56,Main Sponsor
+5,1/25/2025,E2 industries,$83869.45,Kit Sponsor
+6,4/25/2025,Tesla,$51935.97,Event Sponsor
+7,6/13/2024,Safaricom,$22401.09,Main Sponsor
+8,7/17/2024,E2 industries,$65002.56,Kit Sponsor
+9,4/12/2025,Safaricom,$38335.65,Main Sponsor
+10,8/22/2024,Safaricom,$10827.05,Main Sponsor
+11,7/20/2024,Safaricom,$67309.93,Main Sponsor
+12,7/14/2024,Tesla,$56363.28,Event Sponsor
+13,2/13/2025,Tesla,$65802.06,Event Sponsor
+14,12/9/2024,E2 industries,$40397.24,Kit Sponsor
+15,3/19/2025,Tesla,$78665.77,Event Sponsor
+16,4/24/2025,E2 industries,$84581.25,Kit Sponsor
+17,11/23/2024,Safaricom,$65634.52,Main Sponsor
+18,2/12/2025,E2 industries,$35301.71,Kit Sponsor
+19,9/5/2024,Safaricom,$73509.80,Main Sponsor
+20,5/17/2025,Safaricom,$64175.42,Main Sponsor
+21,10/21/2024,Safaricom,$35626.05,Main Sponsor
+22,4/28/2025,E2 industries,$69515.92,Kit Sponsor
+23,5/20/2025,E2 industries,$12428.23,Kit Sponsor
+24,5/23/2025,Tesla,$34501.20,Event Sponsor
+25,11/5/2024,Tesla,$46987.40,Event Sponsor
+26,3/3/2025,E2 industries,$23025.98,Kit Sponsor
+27,7/19/2024,Safaricom,$14040.64,Main Sponsor
+28,8/16/2024,Safaricom,$7086.77,Main Sponsor
+29,10/7/2024,Tesla,$30331.88,Event Sponsor
+30,7/19/2024,E2 industries,$69034.40,Kit Sponsor
+31,2/6/2025,Tesla,$61803.61,Event Sponsor
+32,9/22/2024,Safaricom,$7937.40,Main Sponsor
+33,11/5/2024,E2 industries,$35862.70,Kit Sponsor
+34,5/12/2025,E2 industries,$61877.34,Kit Sponsor
+35,8/19/2024,Safaricom,$64579.93,Main Sponsor
+36,5/10/2025,Safaricom,$6575.29,Main Sponsor
+37,1/25/2025,Safaricom,$21555.00,Main Sponsor
+38,6/7/2024,E2 industries,$56618.58,Kit Sponsor
+39,11/26/2024,Tesla,$18812.54,Event Sponsor
+40,6/1/2025,Safaricom,$99180.88,Main Sponsor
+41,9/3/2024,E2 industries,$17477.89,Kit Sponsor
+42,9/8/2024,Tesla,$61599.49,Event Sponsor
+43,2/24/2025,Safaricom,$88669.74,Main Sponsor
+44,3/7/2025,Safaricom,$45933.49,Main Sponsor
+45,11/24/2024,Safaricom,$36356.98,Main Sponsor
+46,8/14/2024,Safaricom,$64052.93,Main Sponsor
+47,11/28/2024,Safaricom,$70303.90,Main Sponsor
+48,4/28/2025,E2 industries,$69331.19,Kit Sponsor
+49,11/1/2024,Tesla,$3306.48,Event Sponsor
+50,8/9/2024,Safaricom,$57453.24,Main Sponsor
+51,7/10/2024,Safaricom,$85792.23,Main Sponsor
+52,11/2/2024,Tesla,$59342.77,Event Sponsor
+53,3/9/2025,Tesla,$25350.16,Event Sponsor
+54,5/3/2025,Safaricom,$65086.82,Main Sponsor
+55,1/2/2025,E2 industries,$89518.04,Kit Sponsor
+56,3/5/2025,E2 industries,$73507.90,Kit Sponsor
+57,3/23/2025,E2 industries,$79705.80,Kit Sponsor
+58,6/23/2024,Tesla,$88111.99,Event Sponsor
+59,2/20/2025,Safaricom,$29238.64,Main Sponsor
+60,8/16/2024,E2 industries,$74028.00,Kit Sponsor
+61,7/25/2024,Tesla,$58019.69,Event Sponsor
+62,5/26/2025,E2 industries,$80341.81,Kit Sponsor
+63,12/16/2024,Safaricom,$75051.63,Main Sponsor
+64,7/20/2024,Tesla,$72977.00,Event Sponsor
+65,2/8/2025,Tesla,$94304.18,Event Sponsor
+66,2/12/2025,Safaricom,$52055.16,Main Sponsor
+67,8/31/2024,E2 industries,$3645.62,Kit Sponsor
+68,8/15/2024,E2 industries,$47582.05,Kit Sponsor
+69,4/14/2025,E2 industries,$4470.89,Kit Sponsor
+70,12/18/2024,Tesla,$54477.41,Event Sponsor
+71,10/30/2024,E2 industries,$62608.75,Kit Sponsor
+72,7/18/2024,Tesla,$87796.51,Event Sponsor
+73,2/24/2025,E2 industries,$85213.50,Kit Sponsor
+74,1/2/2025,E2 industries,$98401.40,Kit Sponsor
+75,5/25/2025,Tesla,$91336.07,Event Sponsor
+76,9/21/2024,E2 industries,$21024.81,Kit Sponsor
+77,9/7/2024,E2 industries,$24779.31,Kit Sponsor
+78,6/3/2025,Safaricom,$54640.07,Main Sponsor
+79,2/18/2025,E2 industries,$38190.80,Kit Sponsor
+80,3/6/2025,Safaricom,$31646.96,Main Sponsor
+81,11/7/2024,Tesla,$29670.52,Event Sponsor
+82,3/1/2025,E2 industries,$47605.40,Kit Sponsor
+83,8/6/2024,E2 industries,$57331.22,Kit Sponsor
+84,10/7/2024,E2 industries,$44493.31,Kit Sponsor
+85,5/23/2025,Safaricom,$26612.15,Main Sponsor
+86,7/23/2024,E2 industries,$90180.75,Kit Sponsor
+87,12/15/2024,Tesla,$88583.28,Event Sponsor
+88,4/5/2025,Safaricom,$64602.80,Main Sponsor
+89,10/4/2024,Tesla,$3890.19,Event Sponsor
+90,11/1/2024,Tesla,$13385.48,Event Sponsor
+91,5/29/2025,Safaricom,$26005.06,Main Sponsor
+92,5/27/2025,Tesla,$46379.87,Event Sponsor
+93,6/23/2024,Safaricom,$85456.09,Main Sponsor
+94,10/4/2024,Safaricom,$4189.81,Main Sponsor
+95,1/9/2025,Tesla,$58004.82,Event Sponsor
+96,4/19/2025,E2 industries,$65515.35,Kit Sponsor
+97,1/3/2025,E2 industries,$3300.13,Kit Sponsor
+98,5/6/2025,Tesla,$23983.46,Event Sponsor
+99,11/17/2024,E2 industries,$26209.95,Kit Sponsor
+100,10/26/2024,Safaricom,$33042.97,Main Sponsor
+101,4/3/2025,E2 industries,$21022.79,Kit Sponsor
+102,2/3/2025,Safaricom,$93099.03,Main Sponsor
+103,11/22/2024,E2 industries,$24043.22,Kit Sponsor
+104,3/31/2025,E2 industries,$65051.97,Kit Sponsor
+105,12/13/2024,Tesla,$78845.53,Event Sponsor
+106,8/24/2024,E2 industries,$68229.13,Kit Sponsor
+107,1/31/2025,E2 industries,$98869.86,Kit Sponsor
+108,10/20/2024,Safaricom,$17526.06,Main Sponsor
+109,4/5/2025,Tesla,$66087.86,Event Sponsor
+110,5/17/2025,E2 industries,$19207.79,Kit Sponsor
+111,1/5/2025,E2 industries,$42299.77,Kit Sponsor
+112,9/8/2024,Tesla,$79210.06,Event Sponsor
+113,12/4/2024,E2 industries,$29138.73,Kit Sponsor
+114,9/28/2024,Safaricom,$70160.09,Main Sponsor
+115,1/7/2025,Safaricom,$34003.48,Main Sponsor
+116,11/22/2024,E2 industries,$64731.37,Kit Sponsor
+117,4/16/2025,E2 industries,$76098.35,Kit Sponsor
+118,5/1/2025,Safaricom,$86848.59,Main Sponsor
+119,12/28/2024,Tesla,$22701.99,Event Sponsor
+120,10/13/2024,Tesla,$94374.58,Event Sponsor
+121,10/27/2024,Tesla,$30416.85,Event Sponsor
+122,12/4/2024,Tesla,$82066.03,Event Sponsor
+123,11/23/2024,Safaricom,$55869.17,Main Sponsor
+124,6/4/2025,Tesla,$49372.61,Event Sponsor
+125,4/15/2025,Safaricom,$88884.59,Main Sponsor
+126,2/17/2025,Safaricom,$97176.19,Main Sponsor
+127,8/30/2024,Safaricom,$82166.75,Main Sponsor
+128,4/18/2025,E2 industries,$52966.34,Kit Sponsor
+129,7/4/2024,Tesla,$3512.49,Event Sponsor
+130,11/18/2024,E2 industries,$14682.53,Kit Sponsor
+131,9/18/2024,Tesla,$55812.05,Event Sponsor
+132,6/26/2024,Safaricom,$99871.15,Main Sponsor
+133,6/9/2024,Safaricom,$21372.56,Main Sponsor
+134,8/8/2024,Safaricom,$16221.14,Main Sponsor
+135,4/14/2025,Safaricom,$84752.84,Main Sponsor
+136,6/5/2024,Tesla,$77384.94,Event Sponsor
+137,11/9/2024,Tesla,$63757.08,Event Sponsor
+138,8/13/2024,Tesla,$9325.15,Event Sponsor
+139,3/9/2025,Safaricom,$6613.19,Main Sponsor
+140,11/1/2024,Tesla,$33127.99,Event Sponsor
+141,6/6/2024,E2 industries,$93579.47,Kit Sponsor
+142,11/4/2024,E2 industries,$42677.84,Kit Sponsor
+143,8/2/2024,Tesla,$36801.16,Event Sponsor
+144,1/12/2025,Tesla,$22006.39,Event Sponsor
+145,11/6/2024,Tesla,$91191.10,Event Sponsor
+146,6/25/2024,Tesla,$70518.83,Event Sponsor
+147,9/13/2024,Safaricom,$53053.41,Main Sponsor
+148,12/3/2024,E2 industries,$35687.95,Kit Sponsor
+149,6/28/2024,Tesla,$5098.12,Event Sponsor
+150,7/18/2024,Safaricom,$63738.49,Main Sponsor
+151,2/19/2025,Safaricom,$83350.19,Main Sponsor
+152,6/21/2024,E2 industries,$31042.55,Kit Sponsor
+153,10/8/2024,Safaricom,$90748.76,Main Sponsor
+154,3/7/2025,Tesla,$99825.44,Event Sponsor
+155,7/28/2024,Tesla,$38616.85,Event Sponsor
+156,6/2/2025,E2 industries,$17209.78,Kit Sponsor
+157,3/5/2025,E2 industries,$58992.12,Kit Sponsor
+158,6/2/2025,Tesla,$92266.01,Event Sponsor
+159,12/22/2024,E2 industries,$94634.08,Kit Sponsor
+160,1/3/2025,E2 industries,$45683.93,Kit Sponsor
+161,12/29/2024,E2 industries,$27995.95,Kit Sponsor
+162,7/7/2024,Tesla,$48168.16,Event Sponsor
+163,5/22/2025,E2 industries,$67896.15,Kit Sponsor
+164,3/2/2025,Tesla,$94295.26,Event Sponsor
+165,5/26/2025,E2 industries,$82618.79,Kit Sponsor
+166,9/7/2024,Tesla,$28802.96,Event Sponsor
+167,11/23/2024,E2 industries,$3522.51,Kit Sponsor
+168,4/3/2025,E2 industries,$46587.50,Kit Sponsor
+169,10/10/2024,Safaricom,$54805.27,Main Sponsor
+170,8/15/2024,Tesla,$60363.46,Event Sponsor
+171,7/17/2024,E2 industries,$74519.59,Kit Sponsor
+172,6/26/2024,Tesla,$30107.35,Event Sponsor
+173,2/12/2025,Tesla,$81016.82,Event Sponsor
+174,4/27/2025,Tesla,$81897.21,Event Sponsor
+175,2/4/2025,Tesla,$37864.49,Event Sponsor
+176,2/15/2025,Tesla,$76875.09,Event Sponsor
+177,12/29/2024,E2 industries,$64644.36,Kit Sponsor
+178,8/25/2024,E2 industries,$96529.54,Kit Sponsor
+179,7/8/2024,Safaricom,$72796.33,Main Sponsor
+180,10/7/2024,Safaricom,$90426.22,Main Sponsor
+181,7/27/2024,Tesla,$30040.65,Event Sponsor
+182,11/13/2024,E2 industries,$85083.28,Kit Sponsor
+183,6/5/2024,E2 industries,$94539.98,Kit Sponsor
+184,9/12/2024,Safaricom,$6131.98,Main Sponsor
+185,4/4/2025,E2 industries,$91249.77,Kit Sponsor
+186,6/15/2024,Safaricom,$2956.97,Main Sponsor
+187,1/4/2025,Safaricom,$54673.29,Main Sponsor
+188,7/14/2024,Safaricom,$47702.53,Main Sponsor
+189,2/26/2025,Tesla,$21080.95,Event Sponsor
+190,7/5/2024,Tesla,$55358.62,Event Sponsor
+191,6/16/2024,Tesla,$27239.58,Event Sponsor
+192,12/28/2024,E2 industries,$82096.26,Kit Sponsor
+193,12/6/2024,E2 industries,$37411.84,Kit Sponsor
+194,12/25/2024,Safaricom,$60089.86,Main Sponsor
+195,11/30/2024,Tesla,$91339.46,Event Sponsor
+196,12/24/2024,Tesla,$53422.95,Event Sponsor
+197,12/1/2024,E2 industries,$99589.43,Kit Sponsor
+198,12/4/2024,Tesla,$96998.26,Event Sponsor
+199,2/27/2025,E2 industries,$4044.37,Kit Sponsor
+200,6/8/2024,Tesla,$49731.80,Event Sponsor
+201,10/28/2024,E2 industries,$7687.89,Kit Sponsor
+202,8/18/2024,Safaricom,$17645.09,Main Sponsor
+203,6/12/2024,E2 industries,$97689.87,Kit Sponsor
+204,6/8/2024,Tesla,$1910.88,Event Sponsor
+205,9/5/2024,E2 industries,$28401.41,Kit Sponsor
+206,2/18/2025,Safaricom,$4631.85,Main Sponsor
+207,4/4/2025,Tesla,$16504.86,Event Sponsor
+208,8/15/2024,E2 industries,$74884.52,Kit Sponsor
+209,7/14/2024,E2 industries,$8267.49,Kit Sponsor
+210,3/30/2025,Safaricom,$79317.55,Main Sponsor
+211,12/17/2024,Safaricom,$75840.13,Main Sponsor
+212,8/30/2024,E2 industries,$29297.77,Kit Sponsor
+213,10/11/2024,E2 industries,$83320.70,Kit Sponsor
+214,5/31/2025,E2 industries,$19557.35,Kit Sponsor
+215,3/4/2025,E2 industries,$89377.93,Kit Sponsor
+216,9/27/2024,E2 industries,$12937.84,Kit Sponsor
+217,6/16/2024,E2 industries,$11646.75,Kit Sponsor
+218,5/30/2025,Tesla,$53355.57,Event Sponsor
+219,5/22/2025,Tesla,$84157.08,Event Sponsor
+220,5/29/2025,Tesla,$76665.11,Event Sponsor
+221,12/11/2024,E2 industries,$85387.86,Kit Sponsor
+222,11/2/2024,E2 industries,$16833.13,Kit Sponsor
+223,4/11/2025,E2 industries,$49470.86,Kit Sponsor
+224,1/29/2025,Safaricom,$62660.66,Main Sponsor
+225,4/9/2025,E2 industries,$55160.07,Kit Sponsor
+226,10/25/2024,E2 industries,$90045.66,Kit Sponsor
+227,10/22/2024,Safaricom,$1877.24,Main Sponsor
+228,12/10/2024,Safaricom,$63405.64,Main Sponsor
+229,7/13/2024,E2 industries,$35445.83,Kit Sponsor
+230,10/30/2024,E2 industries,$67183.10,Kit Sponsor
+231,11/7/2024,E2 industries,$90030.62,Kit Sponsor
+232,5/10/2025,E2 industries,$25057.52,Kit Sponsor
+233,1/10/2025,Tesla,$25551.38,Event Sponsor
+234,6/14/2024,Safaricom,$48197.80,Main Sponsor
+235,10/8/2024,Safaricom,$18720.09,Main Sponsor
+236,2/21/2025,Tesla,$32536.69,Event Sponsor
+237,9/19/2024,Safaricom,$89442.83,Main Sponsor
+238,5/10/2025,E2 industries,$63286.12,Kit Sponsor
+239,11/18/2024,Safaricom,$44562.72,Main Sponsor
+240,10/10/2024,E2 industries,$21241.66,Kit Sponsor
+241,1/24/2025,Safaricom,$82422.39,Main Sponsor
+242,1/25/2025,Safaricom,$43722.11,Main Sponsor
+243,5/28/2025,Tesla,$51607.89,Event Sponsor
+244,12/14/2024,E2 industries,$96832.23,Kit Sponsor
+245,4/16/2025,E2 industries,$86251.43,Kit Sponsor
+246,3/29/2025,Safaricom,$98878.03,Main Sponsor
+247,8/14/2024,Safaricom,$25356.86,Main Sponsor
+248,8/11/2024,E2 industries,$94771.47,Kit Sponsor
+249,7/7/2024,Safaricom,$31156.18,Main Sponsor
+250,1/30/2025,Tesla,$18203.98,Event Sponsor
+251,11/11/2024,Safaricom,$80680.88,Main Sponsor
+252,1/15/2025,Tesla,$36299.66,Event Sponsor
+253,1/18/2025,Tesla,$40096.96,Event Sponsor
+254,2/15/2025,Safaricom,$87327.39,Main Sponsor
+255,6/15/2024,E2 industries,$91102.36,Kit Sponsor
+256,11/23/2024,Tesla,$2927.16,Event Sponsor
+257,12/27/2024,Safaricom,$64628.17,Main Sponsor
+258,9/19/2024,Safaricom,$30287.92,Main Sponsor
+259,2/28/2025,E2 industries,$96272.82,Kit Sponsor
+260,5/4/2025,Tesla,$92349.02,Event Sponsor
+261,1/18/2025,E2 industries,$28892.64,Kit Sponsor
+262,3/13/2025,Tesla,$79665.16,Event Sponsor
+263,4/22/2025,Tesla,$25713.16,Event Sponsor
+264,10/31/2024,Tesla,$8254.89,Event Sponsor
+265,4/24/2025,E2 industries,$63926.51,Kit Sponsor
+266,8/11/2024,Tesla,$96216.11,Event Sponsor
+267,3/19/2025,E2 industries,$46639.84,Kit Sponsor
+268,8/8/2024,E2 industries,$33878.39,Kit Sponsor
+269,5/30/2025,Tesla,$11163.36,Event Sponsor
+270,2/2/2025,E2 industries,$46754.91,Kit Sponsor
+271,3/23/2025,Safaricom,$74088.39,Main Sponsor
+272,7/12/2024,Safaricom,$35671.94,Main Sponsor
+273,12/28/2024,Tesla,$49033.39,Event Sponsor
+274,4/17/2025,Safaricom,$50236.50,Main Sponsor
+275,7/22/2024,Tesla,$69788.38,Event Sponsor
+276,3/1/2025,E2 industries,$1329.76,Kit Sponsor
+277,1/8/2025,Tesla,$10907.02,Event Sponsor
+278,9/26/2024,Safaricom,$80619.88,Main Sponsor
+279,10/19/2024,Tesla,$1956.66,Event Sponsor
+280,11/21/2024,Safaricom,$5169.34,Main Sponsor
+281,12/11/2024,E2 industries,$70185.18,Kit Sponsor
+282,8/5/2024,Safaricom,$85478.99,Main Sponsor
+283,10/27/2024,Tesla,$95133.26,Event Sponsor
+284,5/26/2025,E2 industries,$20696.56,Kit Sponsor
+285,11/24/2024,Tesla,$88706.20,Event Sponsor
+286,6/7/2024,Tesla,$19454.46,Event Sponsor
+287,2/4/2025,E2 industries,$20829.99,Kit Sponsor
+288,2/27/2025,Tesla,$76704.09,Event Sponsor
+289,9/24/2024,Tesla,$93347.30,Event Sponsor
+290,6/15/2024,E2 industries,$35677.37,Kit Sponsor
+291,5/9/2025,Safaricom,$65811.69,Main Sponsor
+292,6/28/2024,Tesla,$81940.12,Event Sponsor
+293,9/23/2024,Safaricom,$63620.70,Main Sponsor
+294,10/10/2024,Safaricom,$78596.80,Main Sponsor
+295,10/16/2024,Safaricom,$35118.69,Main Sponsor
+296,2/15/2025,E2 industries,$31242.63,Kit Sponsor
+297,4/13/2025,E2 industries,$80491.03,Kit Sponsor
+298,8/21/2024,E2 industries,$79029.36,Kit Sponsor
+299,3/29/2025,E2 industries,$81978.93,Kit Sponsor
+300,5/9/2025,E2 industries,$12729.81,Kit Sponsor
+301,3/9/2025,E2 industries,$44284.71,Kit Sponsor
+302,9/27/2024,Tesla,$19996.40,Event Sponsor
+303,9/2/2024,Tesla,$93265.52,Event Sponsor
+304,5/30/2025,Tesla,$40658.15,Event Sponsor
+305,5/19/2025,E2 industries,$38292.12,Kit Sponsor
+306,10/21/2024,Tesla,$21885.41,Event Sponsor
+307,5/26/2025,Tesla,$82314.43,Event Sponsor
+308,5/25/2025,Safaricom,$21070.22,Main Sponsor
+309,9/6/2024,Safaricom,$77514.42,Main Sponsor
+310,9/21/2024,Safaricom,$18073.35,Main Sponsor
+311,9/22/2024,E2 industries,$71022.96,Kit Sponsor
+312,6/8/2024,Tesla,$49784.95,Event Sponsor
+313,8/8/2024,E2 industries,$73973.32,Kit Sponsor
+314,11/25/2024,E2 industries,$71348.54,Kit Sponsor
+315,8/1/2024,Safaricom,$37166.33,Main Sponsor
+316,7/9/2024,Tesla,$49710.73,Event Sponsor
+317,6/30/2024,Tesla,$47348.67,Event Sponsor
+318,9/15/2024,Tesla,$79203.26,Event Sponsor
+319,4/2/2025,Tesla,$44792.40,Event Sponsor
+320,5/7/2025,Tesla,$68763.28,Event Sponsor
+321,3/24/2025,Tesla,$75773.57,Event Sponsor
+322,1/7/2025,Tesla,$32768.85,Event Sponsor
+323,8/22/2024,Safaricom,$19080.31,Main Sponsor
+324,8/6/2024,Safaricom,$48185.86,Main Sponsor
+325,9/29/2024,Safaricom,$37285.65,Main Sponsor
+326,11/12/2024,Tesla,$13906.04,Event Sponsor
+327,10/31/2024,Tesla,$40046.84,Event Sponsor
+328,2/5/2025,Safaricom,$47571.29,Main Sponsor
+329,5/20/2025,Safaricom,$55721.34,Main Sponsor
+330,5/10/2025,Tesla,$23797.76,Event Sponsor
+331,11/28/2024,E2 industries,$74647.54,Kit Sponsor
+332,3/19/2025,Tesla,$62982.40,Event Sponsor
+333,1/16/2025,Tesla,$32397.63,Event Sponsor
+334,9/29/2024,E2 industries,$56991.87,Kit Sponsor
+335,1/31/2025,Safaricom,$66795.41,Main Sponsor
+336,1/4/2025,E2 industries,$95260.41,Kit Sponsor
+337,4/14/2025,Tesla,$73458.63,Event Sponsor
+338,6/21/2024,Safaricom,$10852.79,Main Sponsor
+339,8/30/2024,E2 industries,$58736.10,Kit Sponsor
+340,4/5/2025,Tesla,$65951.41,Event Sponsor
+341,7/11/2024,Safaricom,$52331.42,Main Sponsor
+342,5/6/2025,Safaricom,$64456.92,Main Sponsor
+343,6/20/2024,Tesla,$82733.07,Event Sponsor
+344,8/12/2024,E2 industries,$42201.90,Kit Sponsor
+345,7/29/2024,Safaricom,$90507.86,Main Sponsor
+346,4/19/2025,Safaricom,$48441.05,Main Sponsor
+347,8/23/2024,Safaricom,$10168.18,Main Sponsor
+348,3/30/2025,E2 industries,$28767.02,Kit Sponsor
+349,3/20/2025,Tesla,$85484.76,Event Sponsor
+350,6/14/2024,Safaricom,$41513.38,Main Sponsor
+351,12/28/2024,Tesla,$10151.89,Event Sponsor
+352,9/3/2024,E2 industries,$93008.28,Kit Sponsor
+353,7/26/2024,E2 industries,$40703.14,Kit Sponsor
+354,12/17/2024,E2 industries,$57167.09,Kit Sponsor
+355,1/27/2025,E2 industries,$42485.78,Kit Sponsor
+356,3/11/2025,Safaricom,$29670.17,Main Sponsor
+357,3/25/2025,Tesla,$81017.46,Event Sponsor
+358,1/29/2025,E2 industries,$84636.21,Kit Sponsor
+359,1/12/2025,Safaricom,$20226.70,Main Sponsor
+360,12/14/2024,E2 industries,$7713.28,Kit Sponsor
+361,4/28/2025,Safaricom,$6005.08,Main Sponsor
+362,1/11/2025,E2 industries,$19959.13,Kit Sponsor
+363,9/12/2024,E2 industries,$74132.83,Kit Sponsor
+364,9/17/2024,E2 industries,$75987.87,Kit Sponsor
+365,12/24/2024,Tesla,$89654.31,Event Sponsor
+366,8/12/2024,E2 industries,$72644.94,Kit Sponsor
+367,12/25/2024,E2 industries,$85706.25,Kit Sponsor
+368,9/19/2024,Safaricom,$9891.93,Main Sponsor
+369,3/22/2025,Tesla,$42766.32,Event Sponsor
+370,6/11/2024,E2 industries,$84524.78,Kit Sponsor
+371,5/14/2025,Safaricom,$91991.82,Main Sponsor
+372,6/22/2024,Safaricom,$67252.90,Main Sponsor
+373,7/20/2024,Safaricom,$44908.99,Main Sponsor
+374,4/24/2025,Tesla,$21538.65,Event Sponsor
+375,2/20/2025,Safaricom,$65630.72,Main Sponsor
+376,6/22/2024,Tesla,$20918.01,Event Sponsor
+377,2/17/2025,Safaricom,$14533.06,Main Sponsor
+378,8/1/2024,E2 industries,$11762.99,Kit Sponsor
+379,1/16/2025,Tesla,$75012.96,Event Sponsor
+380,10/9/2024,Safaricom,$26317.97,Main Sponsor
+381,4/13/2025,E2 industries,$95930.45,Kit Sponsor
+382,3/10/2025,Tesla,$20630.78,Event Sponsor
+383,9/29/2024,Tesla,$41404.91,Event Sponsor
+384,4/23/2025,Safaricom,$70129.96,Main Sponsor
+385,6/11/2024,E2 industries,$33092.50,Kit Sponsor
+386,12/28/2024,Safaricom,$88557.72,Main Sponsor
+387,6/3/2025,Safaricom,$6746.06,Main Sponsor
+388,1/25/2025,Tesla,$18949.75,Event Sponsor
+389,1/24/2025,Tesla,$5188.28,Event Sponsor
+390,4/2/2025,Safaricom,$27088.36,Main Sponsor
+391,9/10/2024,Tesla,$65621.21,Event Sponsor
+392,8/12/2024,Tesla,$80845.37,Event Sponsor
+393,8/16/2024,E2 industries,$25324.51,Kit Sponsor
+394,11/12/2024,Tesla,$17080.61,Event Sponsor
+395,8/11/2024,E2 industries,$46037.27,Kit Sponsor
+396,6/12/2024,Safaricom,$16416.44,Main Sponsor
+397,4/17/2025,Safaricom,$11449.11,Main Sponsor
+398,11/8/2024,E2 industries,$73925.14,Kit Sponsor
+399,12/21/2024,Safaricom,$96978.20,Main Sponsor
+400,1/12/2025,E2 industries,$59166.42,Kit Sponsor
+401,1/15/2025,Safaricom,$11724.58,Main Sponsor
+402,2/13/2025,Safaricom,$97941.81,Main Sponsor
+403,11/6/2024,Tesla,$76330.95,Event Sponsor
+404,7/13/2024,Safaricom,$40590.38,Main Sponsor
+405,8/3/2024,Safaricom,$46527.56,Main Sponsor
+406,8/23/2024,Tesla,$91235.90,Event Sponsor
+407,5/11/2025,Safaricom,$38505.54,Main Sponsor
+408,1/19/2025,E2 industries,$24119.02,Kit Sponsor
+409,6/25/2024,E2 industries,$16016.67,Kit Sponsor
+410,12/19/2024,E2 industries,$49989.00,Kit Sponsor
+411,12/12/2024,Tesla,$95545.47,Event Sponsor
+412,6/27/2024,Safaricom,$46118.05,Main Sponsor
+413,10/8/2024,Safaricom,$49080.03,Main Sponsor
+414,2/6/2025,Tesla,$46429.27,Event Sponsor
+415,3/27/2025,Tesla,$10618.19,Event Sponsor
+416,12/19/2024,E2 industries,$3900.04,Kit Sponsor
+417,7/9/2024,E2 industries,$76898.57,Kit Sponsor
+418,1/20/2025,Safaricom,$30711.74,Main Sponsor
+419,5/6/2025,Tesla,$1292.42,Event Sponsor
+420,1/17/2025,Safaricom,$33523.33,Main Sponsor
+421,12/1/2024,Tesla,$67519.92,Event Sponsor
+422,2/22/2025,E2 industries,$48032.15,Kit Sponsor
+423,6/22/2024,Safaricom,$16331.71,Main Sponsor
+424,1/4/2025,E2 industries,$47916.21,Kit Sponsor
+425,9/12/2024,Safaricom,$33493.80,Main Sponsor
+426,2/18/2025,Tesla,$3920.65,Event Sponsor
+427,1/13/2025,E2 industries,$53651.34,Kit Sponsor
+428,8/7/2024,Safaricom,$93567.74,Main Sponsor
+429,12/30/2024,E2 industries,$57759.56,Kit Sponsor
+430,10/30/2024,E2 industries,$83808.71,Kit Sponsor
+431,7/30/2024,Safaricom,$90150.89,Main Sponsor
+432,8/13/2024,E2 industries,$81963.15,Kit Sponsor
+433,10/13/2024,E2 industries,$53888.25,Kit Sponsor
+434,3/29/2025,Safaricom,$85810.05,Main Sponsor
+435,2/15/2025,Safaricom,$91403.61,Main Sponsor
+436,5/23/2025,Safaricom,$38436.26,Main Sponsor
+437,3/2/2025,E2 industries,$66111.02,Kit Sponsor
+438,6/2/2025,Tesla,$44543.50,Event Sponsor
+439,6/28/2024,Safaricom,$8060.64,Main Sponsor
+440,7/17/2024,Tesla,$6232.46,Event Sponsor
+441,7/31/2024,E2 industries,$67947.35,Kit Sponsor
+442,6/9/2024,Tesla,$91592.72,Event Sponsor
+443,1/11/2025,Tesla,$8945.99,Event Sponsor
+444,6/9/2024,E2 industries,$72384.51,Kit Sponsor
+445,9/20/2024,Tesla,$89381.44,Event Sponsor
+446,9/14/2024,Safaricom,$20187.11,Main Sponsor
+447,12/24/2024,E2 industries,$28460.87,Kit Sponsor
+448,6/12/2024,Tesla,$66538.46,Event Sponsor
+449,10/27/2024,E2 industries,$31890.45,Kit Sponsor
+450,1/17/2025,Tesla,$32738.93,Event Sponsor
+451,11/21/2024,Safaricom,$84051.20,Main Sponsor
+452,9/24/2024,Tesla,$83657.87,Event Sponsor
+453,8/29/2024,Tesla,$7913.65,Event Sponsor
+454,5/23/2025,Safaricom,$6623.74,Main Sponsor
+455,2/13/2025,E2 industries,$92068.65,Kit Sponsor
+456,12/31/2024,Tesla,$49146.78,Event Sponsor
+457,11/9/2024,Tesla,$86407.59,Event Sponsor
+458,2/15/2025,Safaricom,$28411.48,Main Sponsor
+459,10/24/2024,Tesla,$79824.77,Event Sponsor
+460,9/26/2024,E2 industries,$47174.36,Kit Sponsor
+461,8/3/2024,Tesla,$50195.18,Event Sponsor
+462,3/29/2025,Safaricom,$79408.17,Main Sponsor
+463,4/27/2025,Tesla,$11793.41,Event Sponsor
+464,6/9/2024,Safaricom,$38548.75,Main Sponsor
+465,2/7/2025,E2 industries,$19444.24,Kit Sponsor
+466,10/12/2024,Tesla,$49814.03,Event Sponsor
+467,2/17/2025,Safaricom,$38368.24,Main Sponsor
+468,8/31/2024,Tesla,$72292.74,Event Sponsor
+469,8/22/2024,E2 industries,$32609.43,Kit Sponsor
+470,5/22/2025,E2 industries,$55401.74,Kit Sponsor
+471,3/14/2025,Tesla,$83450.35,Event Sponsor
+472,12/25/2024,E2 industries,$74899.39,Kit Sponsor
+473,12/29/2024,Tesla,$36963.72,Event Sponsor
+474,5/26/2025,Safaricom,$55523.71,Main Sponsor
+475,1/24/2025,Tesla,$49290.35,Event Sponsor
+476,11/7/2024,Safaricom,$99546.33,Main Sponsor
+477,2/3/2025,E2 industries,$83692.93,Kit Sponsor
+478,8/29/2024,Safaricom,$25224.60,Main Sponsor
+479,4/29/2025,Safaricom,$57957.94,Main Sponsor
+480,2/12/2025,E2 industries,$66888.37,Kit Sponsor
+481,5/31/2025,Safaricom,$8104.63,Main Sponsor
+482,9/12/2024,Tesla,$2925.91,Event Sponsor
+483,12/16/2024,Tesla,$60692.33,Event Sponsor
+484,9/28/2024,E2 industries,$15247.64,Kit Sponsor
+485,3/17/2025,E2 industries,$58935.46,Kit Sponsor
+486,4/23/2025,Safaricom,$60812.74,Main Sponsor
+487,11/18/2024,Tesla,$9880.75,Event Sponsor
+488,1/20/2025,Tesla,$27922.28,Event Sponsor
+489,3/24/2025,E2 industries,$27312.06,Kit Sponsor
+490,10/11/2024,E2 industries,$96521.78,Kit Sponsor
+491,2/14/2025,Tesla,$57501.20,Event Sponsor
+492,9/26/2024,Tesla,$65858.95,Event Sponsor
+493,12/7/2024,Safaricom,$68214.42,Main Sponsor
+494,2/1/2025,Tesla,$91585.72,Event Sponsor
+495,12/16/2024,E2 industries,$32053.01,Kit Sponsor
+496,12/4/2024,Tesla,$64734.88,Event Sponsor
+497,7/13/2024,Tesla,$46347.31,Event Sponsor
+498,5/11/2025,Safaricom,$71295.41,Main Sponsor
+499,9/22/2024,Tesla,$23869.78,Event Sponsor
+500,6/11/2024,Tesla,$47650.95,Event Sponsor
+501,12/11/2024,Tesla,$79359.12,Event Sponsor
+502,9/7/2024,E2 industries,$26273.42,Kit Sponsor
+503,11/10/2024,E2 industries,$27861.01,Kit Sponsor
+504,9/23/2024,Safaricom,$24979.73,Main Sponsor
+505,6/16/2024,Tesla,$80599.08,Event Sponsor
+506,11/22/2024,Safaricom,$65164.19,Main Sponsor
+507,5/28/2025,Tesla,$33224.75,Event Sponsor
+508,2/20/2025,Tesla,$12532.24,Event Sponsor
+509,3/19/2025,Safaricom,$50371.82,Main Sponsor
+510,6/16/2024,E2 industries,$36254.79,Kit Sponsor
+511,6/26/2024,Tesla,$23748.97,Event Sponsor
+512,2/6/2025,E2 industries,$81310.57,Kit Sponsor
+513,3/31/2025,E2 industries,$21322.68,Kit Sponsor
+514,4/4/2025,E2 industries,$12540.94,Kit Sponsor
+515,2/11/2025,Safaricom,$14095.85,Main Sponsor
+516,5/5/2025,E2 industries,$22269.78,Kit Sponsor
+517,2/23/2025,Tesla,$97038.31,Event Sponsor
+518,4/11/2025,E2 industries,$72601.25,Kit Sponsor
+519,3/15/2025,Tesla,$87507.87,Event Sponsor
+520,1/2/2025,E2 industries,$27739.31,Kit Sponsor
+521,8/12/2024,Tesla,$19417.69,Event Sponsor
+522,12/9/2024,Tesla,$38991.37,Event Sponsor
+523,2/28/2025,Safaricom,$38261.78,Main Sponsor
+524,5/21/2025,E2 industries,$77800.46,Kit Sponsor
+525,2/19/2025,Tesla,$23917.73,Event Sponsor
+526,4/24/2025,Tesla,$15259.91,Event Sponsor
+527,7/14/2024,Safaricom,$10736.65,Main Sponsor
+528,3/1/2025,E2 industries,$47799.92,Kit Sponsor
+529,4/20/2025,E2 industries,$74296.25,Kit Sponsor
+530,9/19/2024,Safaricom,$11229.71,Main Sponsor
+531,9/23/2024,Safaricom,$15357.53,Main Sponsor
+532,10/9/2024,Safaricom,$29997.41,Main Sponsor
+533,12/27/2024,Tesla,$35391.93,Event Sponsor
+534,9/30/2024,E2 industries,$89132.54,Kit Sponsor
+535,12/14/2024,Safaricom,$69577.02,Main Sponsor
+536,5/5/2025,E2 industries,$15822.11,Kit Sponsor
+537,12/24/2024,Safaricom,$83712.31,Main Sponsor
+538,8/26/2024,Safaricom,$41500.57,Main Sponsor
+539,5/8/2025,Safaricom,$54033.55,Main Sponsor
+540,3/11/2025,E2 industries,$8330.36,Kit Sponsor
+541,12/15/2024,Safaricom,$16055.33,Main Sponsor
+542,12/29/2024,E2 industries,$33325.78,Kit Sponsor
+543,3/6/2025,Safaricom,$86696.18,Main Sponsor
+544,12/3/2024,E2 industries,$47355.09,Kit Sponsor
+545,3/20/2025,Tesla,$16525.13,Event Sponsor
+546,4/28/2025,Safaricom,$87344.93,Main Sponsor
+547,11/28/2024,Tesla,$55285.56,Event Sponsor
+548,3/30/2025,E2 industries,$56565.94,Kit Sponsor
+549,1/4/2025,Safaricom,$6946.52,Main Sponsor
+550,2/2/2025,Safaricom,$36156.05,Main Sponsor
+551,2/26/2025,E2 industries,$70877.13,Kit Sponsor
+552,10/3/2024,E2 industries,$10066.98,Kit Sponsor
+553,12/12/2024,Safaricom,$88068.08,Main Sponsor
+554,11/22/2024,Safaricom,$39872.87,Main Sponsor
+555,12/1/2024,E2 industries,$93465.82,Kit Sponsor
+556,12/14/2024,Tesla,$62402.95,Event Sponsor
+557,6/16/2024,Safaricom,$36986.97,Main Sponsor
+558,7/3/2024,Safaricom,$1955.47,Main Sponsor
+559,11/2/2024,Tesla,$57057.62,Event Sponsor
+560,7/9/2024,Safaricom,$51030.32,Main Sponsor
+561,12/20/2024,E2 industries,$99310.96,Kit Sponsor
+562,11/30/2024,Safaricom,$64458.04,Main Sponsor
+563,6/3/2025,Safaricom,$68249.59,Main Sponsor
+564,3/1/2025,Tesla,$38823.62,Event Sponsor
+565,12/13/2024,Tesla,$75754.41,Event Sponsor
+566,3/2/2025,E2 industries,$57666.78,Kit Sponsor
+567,11/20/2024,E2 industries,$71108.95,Kit Sponsor
+568,5/9/2025,Safaricom,$69135.35,Main Sponsor
+569,4/30/2025,Tesla,$80407.56,Event Sponsor
+570,1/22/2025,Safaricom,$33553.70,Main Sponsor
+571,3/25/2025,E2 industries,$89488.31,Kit Sponsor
+572,10/28/2024,E2 industries,$16000.18,Kit Sponsor
+573,4/22/2025,Safaricom,$95065.49,Main Sponsor
+574,1/28/2025,E2 industries,$27448.94,Kit Sponsor
+575,9/26/2024,E2 industries,$83221.90,Kit Sponsor
+576,12/30/2024,E2 industries,$20459.13,Kit Sponsor
+577,1/11/2025,E2 industries,$66079.63,Kit Sponsor
+578,12/2/2024,Tesla,$22697.77,Event Sponsor
+579,1/29/2025,Tesla,$16834.10,Event Sponsor
+580,12/1/2024,Safaricom,$37605.05,Main Sponsor
+581,12/25/2024,E2 industries,$70310.27,Kit Sponsor
+582,12/4/2024,Safaricom,$67112.87,Main Sponsor
+583,12/16/2024,Tesla,$44170.38,Event Sponsor
+584,9/15/2024,Safaricom,$62057.03,Main Sponsor
+585,5/3/2025,E2 industries,$9545.05,Kit Sponsor
+586,9/22/2024,E2 industries,$15963.36,Kit Sponsor
+587,4/15/2025,E2 industries,$76390.44,Kit Sponsor
+588,12/26/2024,E2 industries,$19273.79,Kit Sponsor
+589,1/25/2025,Safaricom,$47706.97,Main Sponsor
+590,12/30/2024,Tesla,$95232.71,Event Sponsor
+591,11/6/2024,Tesla,$64700.24,Event Sponsor
+592,3/24/2025,Safaricom,$16498.32,Main Sponsor
+593,10/27/2024,Safaricom,$43628.81,Main Sponsor
+594,5/8/2025,E2 industries,$93083.28,Kit Sponsor
+595,12/30/2024,Safaricom,$57576.21,Main Sponsor
+596,2/28/2025,Safaricom,$94686.73,Main Sponsor
+597,3/16/2025,E2 industries,$90783.84,Kit Sponsor
+598,7/20/2024,E2 industries,$33802.26,Kit Sponsor
+599,6/3/2025,Tesla,$7395.58,Event Sponsor
+600,4/17/2025,Tesla,$63791.14,Event Sponsor
+601,5/6/2025,Safaricom,$48811.49,Main Sponsor
+602,1/1/2025,E2 industries,$91136.31,Kit Sponsor
+603,3/14/2025,Tesla,$12791.30,Event Sponsor
+604,4/2/2025,E2 industries,$30004.77,Kit Sponsor
+605,1/11/2025,Tesla,$77940.73,Event Sponsor
+606,3/8/2025,Safaricom,$24944.90,Main Sponsor
+607,2/25/2025,E2 industries,$98699.55,Kit Sponsor
+608,6/15/2024,Tesla,$9212.42,Event Sponsor
+609,11/19/2024,E2 industries,$17988.81,Kit Sponsor
+610,2/2/2025,E2 industries,$55159.12,Kit Sponsor
+611,4/8/2025,E2 industries,$47815.15,Kit Sponsor
+612,8/1/2024,Safaricom,$40496.70,Main Sponsor
+613,4/14/2025,E2 industries,$88533.28,Kit Sponsor
+614,7/9/2024,E2 industries,$14724.26,Kit Sponsor
+615,4/21/2025,Tesla,$77274.57,Event Sponsor
+616,8/19/2024,Tesla,$34230.27,Event Sponsor
+617,2/13/2025,Safaricom,$79121.80,Main Sponsor
+618,3/10/2025,Safaricom,$49723.05,Main Sponsor
+619,12/1/2024,E2 industries,$58394.17,Kit Sponsor
+620,3/6/2025,Safaricom,$82575.89,Main Sponsor
+621,6/4/2025,Safaricom,$63605.89,Main Sponsor
+622,10/15/2024,Safaricom,$66076.64,Main Sponsor
+623,5/18/2025,Safaricom,$9430.78,Main Sponsor
+624,4/3/2025,Tesla,$16886.92,Event Sponsor
+625,12/12/2024,Safaricom,$59326.67,Main Sponsor
+626,1/11/2025,Tesla,$14329.49,Event Sponsor
+627,10/13/2024,Tesla,$77995.43,Event Sponsor
+628,4/14/2025,E2 industries,$10660.95,Kit Sponsor
+629,3/8/2025,Tesla,$80698.70,Event Sponsor
+630,3/5/2025,Tesla,$16666.24,Event Sponsor
+631,3/4/2025,Safaricom,$58607.59,Main Sponsor
+632,6/11/2024,Safaricom,$31806.98,Main Sponsor
+633,2/26/2025,Tesla,$63664.66,Event Sponsor
+634,12/23/2024,Safaricom,$46409.07,Main Sponsor
+635,3/31/2025,E2 industries,$6584.98,Kit Sponsor
+636,10/7/2024,Safaricom,$64398.77,Main Sponsor
+637,1/22/2025,E2 industries,$10882.17,Kit Sponsor
+638,10/12/2024,E2 industries,$85662.01,Kit Sponsor
+639,3/27/2025,Safaricom,$91217.07,Main Sponsor
+640,1/2/2025,Safaricom,$49570.83,Main Sponsor
+641,3/27/2025,Safaricom,$41951.99,Main Sponsor
+642,9/18/2024,E2 industries,$75054.45,Kit Sponsor
+643,2/20/2025,E2 industries,$72624.57,Kit Sponsor
+644,3/25/2025,E2 industries,$86257.00,Kit Sponsor
+645,4/6/2025,Tesla,$80759.22,Event Sponsor
+646,11/5/2024,Tesla,$18560.16,Event Sponsor
+647,4/24/2025,E2 industries,$73328.88,Kit Sponsor
+648,10/9/2024,E2 industries,$60282.05,Kit Sponsor
+649,10/4/2024,E2 industries,$80545.11,Kit Sponsor
+650,3/18/2025,Safaricom,$92957.74,Main Sponsor
+651,1/19/2025,Tesla,$34867.26,Event Sponsor
+652,6/6/2024,Tesla,$50238.64,Event Sponsor
+653,1/25/2025,Tesla,$93026.64,Event Sponsor
+654,6/19/2024,Tesla,$80810.34,Event Sponsor
+655,6/7/2024,E2 industries,$90751.20,Kit Sponsor
+656,5/12/2025,Safaricom,$63499.08,Main Sponsor
+657,12/20/2024,E2 industries,$2350.65,Kit Sponsor
+658,6/20/2024,Tesla,$27686.24,Event Sponsor
+659,12/20/2024,E2 industries,$38400.74,Kit Sponsor
+660,5/19/2025,Safaricom,$97245.05,Main Sponsor
+661,1/26/2025,Safaricom,$89139.00,Main Sponsor
+662,4/19/2025,Tesla,$38946.79,Event Sponsor
+663,5/6/2025,Safaricom,$65735.20,Main Sponsor
+664,6/8/2024,Tesla,$75466.49,Event Sponsor
+665,3/31/2025,Tesla,$92012.11,Event Sponsor
+666,4/5/2025,Tesla,$60625.41,Event Sponsor
+667,8/27/2024,E2 industries,$14354.77,Kit Sponsor
+668,8/19/2024,Safaricom,$90653.37,Main Sponsor
+669,12/2/2024,Tesla,$80004.81,Event Sponsor
+670,6/16/2024,Tesla,$77321.52,Event Sponsor
+671,8/14/2024,E2 industries,$19078.99,Kit Sponsor
+672,11/14/2024,E2 industries,$7007.24,Kit Sponsor
+673,4/17/2025,E2 industries,$43206.73,Kit Sponsor
+674,12/13/2024,Tesla,$79214.56,Event Sponsor
+675,1/28/2025,E2 industries,$43237.17,Kit Sponsor
+676,5/9/2025,Safaricom,$2503.51,Main Sponsor
+677,12/17/2024,Safaricom,$63001.74,Main Sponsor
+678,5/6/2025,Tesla,$43104.12,Event Sponsor
+679,8/28/2024,Tesla,$75415.74,Event Sponsor
+680,10/11/2024,E2 industries,$55575.86,Kit Sponsor
+681,8/29/2024,Safaricom,$91097.84,Main Sponsor
+682,9/5/2024,Tesla,$24135.61,Event Sponsor
+683,6/24/2024,E2 industries,$29396.17,Kit Sponsor
+684,5/13/2025,Safaricom,$2246.61,Main Sponsor
+685,11/5/2024,E2 industries,$79716.78,Kit Sponsor
+686,11/24/2024,E2 industries,$85887.69,Kit Sponsor
+687,12/31/2024,Tesla,$92725.39,Event Sponsor
+688,9/27/2024,Tesla,$87723.89,Event Sponsor
+689,1/19/2025,Tesla,$51513.93,Event Sponsor
+690,4/4/2025,Tesla,$5689.75,Event Sponsor
+691,12/19/2024,Safaricom,$67567.56,Main Sponsor
+692,8/29/2024,E2 industries,$66834.18,Kit Sponsor
+693,9/2/2024,Tesla,$75381.91,Event Sponsor
+694,5/14/2025,E2 industries,$42022.56,Kit Sponsor
+695,2/21/2025,Safaricom,$75922.70,Main Sponsor
+696,8/25/2024,E2 industries,$66219.03,Kit Sponsor
+697,5/16/2025,Tesla,$52026.89,Event Sponsor
+698,2/28/2025,Safaricom,$27102.21,Main Sponsor
+699,7/25/2024,Tesla,$84038.67,Event Sponsor
+700,9/30/2024,Tesla,$74369.69,Event Sponsor
+701,12/22/2024,Tesla,$53462.43,Event Sponsor
+702,11/27/2024,Tesla,$5444.11,Event Sponsor
+703,5/13/2025,E2 industries,$11385.74,Kit Sponsor
+704,9/13/2024,Safaricom,$66906.69,Main Sponsor
+705,2/2/2025,E2 industries,$4885.28,Kit Sponsor
+706,11/27/2024,Tesla,$9141.58,Event Sponsor
+707,2/28/2025,Tesla,$23521.10,Event Sponsor
+708,12/28/2024,E2 industries,$66604.13,Kit Sponsor
+709,3/17/2025,E2 industries,$13310.51,Kit Sponsor
+710,3/8/2025,Safaricom,$15504.32,Main Sponsor
+711,8/1/2024,E2 industries,$77440.89,Kit Sponsor
+712,3/4/2025,Safaricom,$28130.02,Main Sponsor
+713,12/2/2024,E2 industries,$80651.24,Kit Sponsor
+714,10/19/2024,Safaricom,$61737.55,Main Sponsor
+715,3/14/2025,E2 industries,$62263.01,Kit Sponsor
+716,11/24/2024,Tesla,$32255.95,Event Sponsor
+717,8/21/2024,E2 industries,$52331.20,Kit Sponsor
+718,6/1/2025,Safaricom,$23304.70,Main Sponsor
+719,2/20/2025,E2 industries,$59064.86,Kit Sponsor
+720,1/9/2025,E2 industries,$92934.93,Kit Sponsor
+721,3/20/2025,E2 industries,$29715.98,Kit Sponsor
+722,5/6/2025,E2 industries,$68526.37,Kit Sponsor
+723,11/5/2024,Tesla,$96816.23,Event Sponsor
+724,9/19/2024,E2 industries,$79888.35,Kit Sponsor
+725,10/31/2024,E2 industries,$60316.72,Kit Sponsor
+726,11/10/2024,Safaricom,$16900.28,Main Sponsor
+727,7/19/2024,E2 industries,$36186.96,Kit Sponsor
+728,12/11/2024,E2 industries,$97324.84,Kit Sponsor
+729,4/15/2025,E2 industries,$54569.23,Kit Sponsor
+730,1/31/2025,Safaricom,$31316.07,Main Sponsor
+731,4/24/2025,Safaricom,$25188.80,Main Sponsor
+732,8/5/2024,E2 industries,$61362.24,Kit Sponsor
+733,6/28/2024,Tesla,$12234.01,Event Sponsor
+734,4/13/2025,Tesla,$2849.74,Event Sponsor
+735,10/31/2024,E2 industries,$89169.01,Kit Sponsor
+736,1/14/2025,Safaricom,$68588.04,Main Sponsor
+737,2/13/2025,Safaricom,$57752.22,Main Sponsor
+738,6/4/2025,Safaricom,$97815.61,Main Sponsor
+739,7/28/2024,E2 industries,$89124.44,Kit Sponsor
+740,12/14/2024,Tesla,$63103.21,Event Sponsor
+741,6/10/2024,Tesla,$27171.99,Event Sponsor
+742,8/13/2024,Tesla,$53017.24,Event Sponsor
+743,7/16/2024,Safaricom,$23276.94,Main Sponsor
+744,9/9/2024,E2 industries,$76555.08,Kit Sponsor
+745,5/25/2025,Tesla,$71838.60,Event Sponsor
+746,8/3/2024,E2 industries,$72716.02,Kit Sponsor
+747,9/7/2024,E2 industries,$25044.94,Kit Sponsor
+748,3/23/2025,Safaricom,$60530.65,Main Sponsor
+749,5/2/2025,Tesla,$28169.15,Event Sponsor
+750,11/12/2024,Tesla,$97788.00,Event Sponsor
+751,4/4/2025,Safaricom,$84907.06,Main Sponsor
+752,6/7/2024,E2 industries,$39365.69,Kit Sponsor
+753,7/23/2024,Tesla,$75484.16,Event Sponsor
+754,5/4/2025,Safaricom,$64391.18,Main Sponsor
+755,8/5/2024,Tesla,$74163.43,Event Sponsor
+756,9/7/2024,Tesla,$20514.23,Event Sponsor
+757,3/3/2025,Tesla,$75355.74,Event Sponsor
+758,2/26/2025,Tesla,$44583.24,Event Sponsor
+759,8/20/2024,Tesla,$26755.97,Event Sponsor
+760,5/9/2025,Tesla,$59225.21,Event Sponsor
+761,8/7/2024,E2 industries,$9319.34,Kit Sponsor
+762,6/7/2024,Tesla,$13009.97,Event Sponsor
+763,5/9/2025,Tesla,$91687.44,Event Sponsor
+764,2/23/2025,E2 industries,$42521.31,Kit Sponsor
+765,1/8/2025,Safaricom,$73715.19,Main Sponsor
+766,2/10/2025,E2 industries,$78155.83,Kit Sponsor
+767,12/17/2024,Tesla,$59953.85,Event Sponsor
+768,5/27/2025,E2 industries,$66619.86,Kit Sponsor
+769,12/8/2024,Tesla,$64715.02,Event Sponsor
+770,12/22/2024,Tesla,$16806.71,Event Sponsor
+771,2/19/2025,Safaricom,$46735.11,Main Sponsor
+772,1/24/2025,Tesla,$39115.67,Event Sponsor
+773,5/10/2025,Tesla,$80779.28,Event Sponsor
+774,9/20/2024,Tesla,$39529.72,Event Sponsor
+775,11/22/2024,Tesla,$86488.43,Event Sponsor
+776,9/18/2024,E2 industries,$82211.40,Kit Sponsor
+777,12/5/2024,Tesla,$81394.43,Event Sponsor
+778,6/24/2024,E2 industries,$54483.00,Kit Sponsor
+779,4/28/2025,Tesla,$88299.09,Event Sponsor
+780,3/30/2025,Tesla,$4725.67,Event Sponsor
+781,12/5/2024,Safaricom,$29220.15,Main Sponsor
+782,1/23/2025,Safaricom,$46682.24,Main Sponsor
+783,11/15/2024,Safaricom,$5316.50,Main Sponsor
+784,5/20/2025,Safaricom,$4379.63,Main Sponsor
+785,10/11/2024,E2 industries,$23962.13,Kit Sponsor
+786,5/26/2025,Safaricom,$84091.22,Main Sponsor
+787,2/4/2025,Tesla,$13728.62,Event Sponsor
+788,8/21/2024,Tesla,$19986.95,Event Sponsor
+789,2/14/2025,Safaricom,$85584.23,Main Sponsor
+790,3/24/2025,Tesla,$92303.64,Event Sponsor
+791,5/15/2025,Tesla,$96368.44,Event Sponsor
+792,8/15/2024,E2 industries,$57426.42,Kit Sponsor
+793,12/21/2024,Tesla,$44457.34,Event Sponsor
+794,7/19/2024,E2 industries,$4090.30,Kit Sponsor
+795,5/27/2025,Safaricom,$68643.38,Main Sponsor
+796,9/24/2024,Safaricom,$15135.51,Main Sponsor
+797,4/17/2025,E2 industries,$30142.97,Kit Sponsor
+798,10/16/2024,Safaricom,$44116.38,Main Sponsor
+799,9/5/2024,Safaricom,$7725.73,Main Sponsor
+800,10/17/2024,Safaricom,$22998.57,Main Sponsor
+801,2/21/2025,Tesla,$8668.56,Event Sponsor
+802,9/30/2024,E2 industries,$98887.57,Kit Sponsor
+803,10/2/2024,Tesla,$73133.77,Event Sponsor
+804,1/5/2025,Safaricom,$19847.67,Main Sponsor
+805,9/9/2024,E2 industries,$85678.37,Kit Sponsor
+806,6/24/2024,E2 industries,$5576.74,Kit Sponsor
+807,2/14/2025,E2 industries,$82064.83,Kit Sponsor
+808,3/29/2025,Tesla,$21436.45,Event Sponsor
+809,10/1/2024,E2 industries,$72182.76,Kit Sponsor
+810,2/8/2025,Safaricom,$46489.62,Main Sponsor
+811,10/8/2024,Tesla,$79509.16,Event Sponsor
+812,8/28/2024,Tesla,$44320.92,Event Sponsor
+813,3/6/2025,Tesla,$74895.10,Event Sponsor
+814,8/10/2024,Safaricom,$44508.76,Main Sponsor
+815,2/20/2025,Safaricom,$37139.48,Main Sponsor
+816,10/6/2024,Safaricom,$44416.96,Main Sponsor
+817,1/23/2025,E2 industries,$80107.01,Kit Sponsor
+818,11/26/2024,E2 industries,$49253.12,Kit Sponsor
+819,11/23/2024,Tesla,$64921.85,Event Sponsor
+820,7/15/2024,E2 industries,$44696.92,Kit Sponsor
+821,6/26/2024,Safaricom,$79757.23,Main Sponsor
+822,6/24/2024,Safaricom,$4803.13,Main Sponsor
+823,12/8/2024,Safaricom,$82850.21,Main Sponsor
+824,3/22/2025,E2 industries,$97743.52,Kit Sponsor
+825,3/22/2025,Tesla,$52723.59,Event Sponsor
+826,3/18/2025,Safaricom,$5674.65,Main Sponsor
+827,12/24/2024,Safaricom,$94352.60,Main Sponsor
+828,10/15/2024,E2 industries,$83033.12,Kit Sponsor
+829,11/8/2024,Tesla,$41239.76,Event Sponsor
+830,3/26/2025,E2 industries,$85651.30,Kit Sponsor
+831,2/24/2025,Tesla,$37220.90,Event Sponsor
+832,6/23/2024,E2 industries,$84466.13,Kit Sponsor
+833,7/18/2024,E2 industries,$47847.26,Kit Sponsor
+834,8/14/2024,Tesla,$78860.97,Event Sponsor
+835,12/16/2024,E2 industries,$31466.74,Kit Sponsor
+836,3/30/2025,E2 industries,$5382.26,Kit Sponsor
+837,11/6/2024,Safaricom,$95002.06,Main Sponsor
+838,9/20/2024,Safaricom,$82398.66,Main Sponsor
+839,7/20/2024,Safaricom,$18748.60,Main Sponsor
+840,6/7/2024,E2 industries,$77266.09,Kit Sponsor
+841,9/15/2024,Tesla,$35219.69,Event Sponsor
+842,5/20/2025,Tesla,$76446.04,Event Sponsor
+843,3/30/2025,E2 industries,$27857.80,Kit Sponsor
+844,1/31/2025,Safaricom,$63109.53,Main Sponsor
+845,4/21/2025,Tesla,$4446.33,Event Sponsor
+846,3/26/2025,Safaricom,$35999.85,Main Sponsor
+847,2/20/2025,Safaricom,$8888.04,Main Sponsor
+848,9/26/2024,Safaricom,$8599.79,Main Sponsor
+849,9/2/2024,E2 industries,$35750.14,Kit Sponsor
+850,6/19/2024,Tesla,$90516.38,Event Sponsor
+851,3/28/2025,E2 industries,$79280.65,Kit Sponsor
+852,4/20/2025,Safaricom,$79396.26,Main Sponsor
+853,4/21/2025,E2 industries,$48365.53,Kit Sponsor
+854,3/6/2025,E2 industries,$19061.84,Kit Sponsor
+855,8/6/2024,E2 industries,$72488.14,Kit Sponsor
+856,11/14/2024,Tesla,$2813.23,Event Sponsor
+857,8/23/2024,Tesla,$14181.49,Event Sponsor
+858,11/18/2024,Safaricom,$47988.01,Main Sponsor
+859,4/7/2025,Safaricom,$44603.44,Main Sponsor
+860,10/10/2024,Tesla,$58986.12,Event Sponsor
+861,3/14/2025,Tesla,$84769.69,Event Sponsor
+862,9/25/2024,E2 industries,$1464.51,Kit Sponsor
+863,8/10/2024,E2 industries,$7107.41,Kit Sponsor
+864,12/9/2024,E2 industries,$51664.78,Kit Sponsor
+865,4/10/2025,Tesla,$46548.53,Event Sponsor
+866,9/15/2024,Tesla,$69326.32,Event Sponsor
+867,11/3/2024,Tesla,$25679.85,Event Sponsor
+868,12/3/2024,Safaricom,$25972.11,Main Sponsor
+869,9/30/2024,Tesla,$83732.22,Event Sponsor
+870,8/28/2024,Tesla,$74999.65,Event Sponsor
+871,4/21/2025,Safaricom,$85404.93,Main Sponsor
+872,1/6/2025,Tesla,$71174.10,Event Sponsor
+873,7/5/2024,Tesla,$74502.58,Event Sponsor
+874,10/6/2024,E2 industries,$23694.69,Kit Sponsor
+875,4/27/2025,Tesla,$87005.44,Event Sponsor
+876,5/1/2025,Safaricom,$43059.12,Main Sponsor
+877,3/30/2025,Safaricom,$53137.54,Main Sponsor
+878,12/9/2024,E2 industries,$91421.59,Kit Sponsor
+879,2/16/2025,Tesla,$74453.91,Event Sponsor
+880,1/3/2025,E2 industries,$75149.51,Kit Sponsor
+881,1/2/2025,Safaricom,$76065.39,Main Sponsor
+882,12/25/2024,Tesla,$74849.23,Event Sponsor
+883,4/11/2025,Tesla,$18206.50,Event Sponsor
+884,9/21/2024,Safaricom,$98475.54,Main Sponsor
+885,2/28/2025,Tesla,$73287.42,Event Sponsor
+886,9/1/2024,Tesla,$15252.08,Event Sponsor
+887,8/1/2024,Safaricom,$59671.31,Main Sponsor
+888,4/4/2025,Safaricom,$11830.02,Main Sponsor
+889,5/29/2025,Tesla,$4780.83,Event Sponsor
+890,7/19/2024,Tesla,$53843.74,Event Sponsor
+891,2/28/2025,E2 industries,$99619.45,Kit Sponsor
+892,7/6/2024,Tesla,$25528.28,Event Sponsor
+893,3/20/2025,E2 industries,$55173.36,Kit Sponsor
+894,7/7/2024,E2 industries,$42919.89,Kit Sponsor
+895,6/21/2024,E2 industries,$48580.59,Kit Sponsor
+896,5/19/2025,E2 industries,$91082.53,Kit Sponsor
+897,4/20/2025,Tesla,$12021.48,Event Sponsor
+898,12/9/2024,Tesla,$70148.99,Event Sponsor
+899,3/18/2025,E2 industries,$2940.23,Kit Sponsor
+900,1/7/2025,E2 industries,$66955.54,Kit Sponsor
+901,12/25/2024,Safaricom,$66974.60,Main Sponsor
+902,1/26/2025,Safaricom,$44607.00,Main Sponsor
+903,5/28/2025,Tesla,$7532.16,Event Sponsor
+904,3/28/2025,E2 industries,$28112.67,Kit Sponsor
+905,9/25/2024,E2 industries,$12473.05,Kit Sponsor
+906,5/8/2025,E2 industries,$2005.80,Kit Sponsor
+907,8/16/2024,Safaricom,$67782.30,Main Sponsor
+908,9/11/2024,Tesla,$89840.32,Event Sponsor
+909,11/14/2024,Tesla,$76531.79,Event Sponsor
+910,10/11/2024,Safaricom,$51777.80,Main Sponsor
+911,4/15/2025,Tesla,$64896.15,Event Sponsor
+912,1/30/2025,Safaricom,$25869.86,Main Sponsor
+913,8/15/2024,E2 industries,$23585.28,Kit Sponsor
+914,9/30/2024,Tesla,$51429.40,Event Sponsor
+915,11/5/2024,Safaricom,$77881.47,Main Sponsor
+916,8/30/2024,Safaricom,$56209.14,Main Sponsor
+917,1/14/2025,Safaricom,$32730.38,Main Sponsor
+918,2/23/2025,E2 industries,$42296.10,Kit Sponsor
+919,4/6/2025,E2 industries,$38584.86,Kit Sponsor
+920,7/17/2024,E2 industries,$61961.69,Kit Sponsor
+921,12/13/2024,Safaricom,$46621.03,Main Sponsor
+922,12/24/2024,Tesla,$99989.79,Event Sponsor
+923,5/11/2025,Tesla,$62270.09,Event Sponsor
+924,10/7/2024,E2 industries,$81038.90,Kit Sponsor
+925,3/15/2025,E2 industries,$77450.97,Kit Sponsor
+926,4/15/2025,Safaricom,$27088.14,Main Sponsor
+927,4/28/2025,Tesla,$75478.96,Event Sponsor
+928,2/4/2025,E2 industries,$31810.85,Kit Sponsor
+929,1/27/2025,E2 industries,$26304.36,Kit Sponsor
+930,12/30/2024,Tesla,$84218.21,Event Sponsor
+931,8/4/2024,E2 industries,$58085.96,Kit Sponsor
+932,9/26/2024,Tesla,$90140.48,Event Sponsor
+933,6/8/2024,E2 industries,$14236.90,Kit Sponsor
+934,8/23/2024,Safaricom,$48117.35,Main Sponsor
+935,10/17/2024,Tesla,$61415.62,Event Sponsor
+936,11/12/2024,E2 industries,$77768.46,Kit Sponsor
+937,2/14/2025,E2 industries,$72039.20,Kit Sponsor
+938,1/26/2025,Safaricom,$83814.94,Main Sponsor
+939,5/2/2025,E2 industries,$9217.04,Kit Sponsor
+940,7/29/2024,Safaricom,$36472.33,Main Sponsor
+941,3/19/2025,Safaricom,$99101.55,Main Sponsor
+942,5/1/2025,Tesla,$59138.38,Event Sponsor
+943,7/16/2024,Safaricom,$25695.14,Main Sponsor
+944,8/7/2024,E2 industries,$53588.80,Kit Sponsor
+945,9/14/2024,Safaricom,$23199.07,Main Sponsor
+946,5/21/2025,Safaricom,$37259.25,Main Sponsor
+947,1/22/2025,Tesla,$27639.31,Event Sponsor
+948,12/30/2024,Safaricom,$41000.87,Main Sponsor
+949,8/23/2024,Safaricom,$62253.16,Main Sponsor
+950,1/29/2025,E2 industries,$7377.74,Kit Sponsor
+951,3/30/2025,Tesla,$63496.62,Event Sponsor
+952,12/11/2024,Tesla,$83830.00,Event Sponsor
+953,9/4/2024,E2 industries,$2896.19,Kit Sponsor
+954,1/5/2025,E2 industries,$64527.31,Kit Sponsor
+955,1/29/2025,E2 industries,$81843.68,Kit Sponsor
+956,6/9/2024,Tesla,$91512.21,Event Sponsor
+957,7/1/2024,Tesla,$35201.20,Event Sponsor
+958,2/9/2025,E2 industries,$29333.90,Kit Sponsor
+959,9/10/2024,Tesla,$53053.29,Event Sponsor
+960,12/4/2024,Tesla,$2844.45,Event Sponsor
+961,9/30/2024,Safaricom,$24554.19,Main Sponsor
+962,10/26/2024,E2 industries,$38026.90,Kit Sponsor
+963,10/14/2024,Tesla,$34676.78,Event Sponsor
+964,3/24/2025,E2 industries,$67309.15,Kit Sponsor
+965,8/14/2024,Tesla,$79407.97,Event Sponsor
+966,7/9/2024,Safaricom,$18051.65,Main Sponsor
+967,12/31/2024,Tesla,$5828.95,Event Sponsor
+968,9/9/2024,E2 industries,$59966.25,Kit Sponsor
+969,9/8/2024,Safaricom,$33956.28,Main Sponsor
+970,1/5/2025,E2 industries,$25335.94,Kit Sponsor
+971,12/20/2024,E2 industries,$48143.61,Kit Sponsor
+972,9/10/2024,Tesla,$88635.60,Event Sponsor
+973,11/19/2024,Safaricom,$96884.22,Main Sponsor
+974,5/18/2025,Tesla,$87112.20,Event Sponsor
+975,4/20/2025,Safaricom,$16688.73,Main Sponsor
+976,1/17/2025,E2 industries,$26946.99,Kit Sponsor
+977,3/26/2025,Tesla,$32791.13,Event Sponsor
+978,8/18/2024,E2 industries,$79225.66,Kit Sponsor
+979,12/24/2024,Tesla,$24188.17,Event Sponsor
+980,12/24/2024,Tesla,$25899.42,Event Sponsor
+981,9/7/2024,E2 industries,$20701.83,Kit Sponsor
+982,9/28/2024,E2 industries,$81631.10,Kit Sponsor
+983,6/16/2024,Tesla,$96377.85,Event Sponsor
+984,6/29/2024,E2 industries,$30030.73,Kit Sponsor
+985,8/12/2024,Safaricom,$68217.39,Main Sponsor
+986,6/9/2024,Safaricom,$65141.44,Main Sponsor
+987,5/7/2025,Safaricom,$14244.28,Main Sponsor
+988,10/30/2024,Safaricom,$15529.23,Main Sponsor
+989,11/13/2024,Safaricom,$5572.10,Main Sponsor
+990,8/29/2024,Safaricom,$80726.02,Main Sponsor
+991,12/10/2024,Safaricom,$60279.61,Main Sponsor
+992,2/13/2025,E2 industries,$94741.44,Kit Sponsor
+993,7/9/2024,Safaricom,$56805.10,Main Sponsor
+994,8/7/2024,Tesla,$20117.44,Event Sponsor
+995,11/10/2024,Tesla,$70998.49,Event Sponsor
+996,2/4/2025,Safaricom,$87303.70,Main Sponsor
+997,2/5/2025,Tesla,$69554.51,Event Sponsor
+998,5/12/2025,E2 industries,$40639.51,Kit Sponsor
+999,6/10/2024,Tesla,$14048.40,Event Sponsor
+1000,5/16/2025,E2 industries,$6949.09,Kit Sponsor
